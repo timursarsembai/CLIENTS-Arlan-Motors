@@ -1,0 +1,6806 @@
+[
+  {
+    "brand": "Acura",
+    "model": "Acura ILX"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura MDX"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura RDX"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura RL"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura TL"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura TLX"
+  },
+  {
+    "brand": "AITO",
+    "model": "AITO M5"
+  },
+  {
+    "brand": "AITO",
+    "model": "AITO M7"
+  },
+  {
+    "brand": "AITO",
+    "model": "AITO M8"
+  },
+  {
+    "brand": "AITO",
+    "model": "AITO M9"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Alfa Romeo 155"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Alfa Romeo 156"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Alfa Romeo 164"
+  },
+  {
+    "brand": "Alpina",
+    "model": "Alpina B7"
+  },
+  {
+    "brand": "Aston Martin",
+    "model": "Aston Martin DBS"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi 100"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi 80"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi 90"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A3"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A4"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A5"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A6"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A6 allroad"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A7"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A8"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Coupe"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Q3"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Q5"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Q7"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Q8"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Q8 e-tron"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi S4"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi S6"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi TT"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi e-tron"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi RS Q8"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi R8"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi SQ5"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi 200"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi RS 6"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi RS 7"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi S5"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi S7"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A4 allroad"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi e-tron Sportback"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Q4 e-tron"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi e-tron GT"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi S8"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A2"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A1"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi S3"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi V8"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Q3 Sportback"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi SQ8"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi RS Q3"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi RS 3"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi RS 4"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi E5"
+  },
+  {
+    "brand": "Avatr",
+    "model": "Avatr 07"
+  },
+  {
+    "brand": "Avatr",
+    "model": "Avatr 11"
+  },
+  {
+    "brand": "Avatr",
+    "model": "Avatr 12"
+  },
+  {
+    "brand": "BAIC",
+    "model": "BAIC BJ40"
+  },
+  {
+    "brand": "BAIC",
+    "model": "BAIC D70"
+  },
+  {
+    "brand": "BAIC",
+    "model": "BAIC EC3"
+  },
+  {
+    "brand": "BAIC",
+    "model": "BAIC EU5"
+  },
+  {
+    "brand": "BAIC",
+    "model": "BAIC X55"
+  },
+  {
+    "brand": "Baojun",
+    "model": "Baojun Yep"
+  },
+  {
+    "brand": "Baojun",
+    "model": "Baojun Yunduo Cloud"
+  },
+  {
+    "brand": "Baojun",
+    "model": "Baojun Yunhai"
+  },
+  {
+    "brand": "BAW",
+    "model": "BAW 212 T01"
+  },
+  {
+    "brand": "BAW",
+    "model": "BAW Luba"
+  },
+  {
+    "brand": "BAW",
+    "model": "BAW M7"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentley Arnage"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentley Bentayga"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentley Continental Flying Spur"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentley Continental GT"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentley Flying Spur"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentley Mulsanne"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 1 серия"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 1M"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 2 серия"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 3 серия"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 4 серия"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 5 серия"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 6 серия"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 7 серия"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW 8 серия"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW M2"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW M3"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW M4"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW M5"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW M6"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW M8"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X1"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X2"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X3"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X3 M"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X4"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X4 M"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X5"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X5 M"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X6"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X6 M"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X7"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW XM"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW Z3"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW Z4"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW i3"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW i4"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW i5"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW i7"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW i8"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW iX"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW iX1"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW iX3"
+  },
+  {
+    "brand": "Brilliance",
+    "model": "Brilliance FRV (BS2)"
+  },
+  {
+    "brand": "Brilliance",
+    "model": "Brilliance H530"
+  },
+  {
+    "brand": "Brilliance",
+    "model": "Brilliance V5"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick Century"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick GL8"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick Rendezvous"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD BYD Qin L EV"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Chazor"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Destroyer 05"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Dolphin"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD E2"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD F3"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD FangChengBao Leopard 5"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD FangChengBao Leopard 8"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD FangChengBao Titanium 3"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD FangChengBao Titanium 7"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Han"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Han L"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Qin"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Qin L DM-i"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Qin Plus"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD S6"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Sea Lion 05"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Sea Lion 06"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Sea Lion 07"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Seagull"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Seal"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Seal 05"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Seal 06"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Seal 06 DM"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Song"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Song L"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Song L DM-i"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Song Plus"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Song Plus Champion"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Song Pro"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Tang"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Tang L"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Xia"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Yangwang U8"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Yuan Plus"
+  },
+  {
+    "brand": "BYD",
+    "model": "BYD Yuan Up"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac ATS"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac BLS"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac CT4"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac CT5"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac CT6"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac CTS"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac DTS"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac De Ville"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac Escalade"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac Escalade IQ"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac Lyriq"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac SRX"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac STS"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac Seville"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac XT5"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac XT6"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Alsvin"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Auchan A600 EV"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan BenBen Mini"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Benben E-Star"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS35"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS35 Max"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS35 Plus"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS55"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS55 Plus"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS75"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS75 Plus"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS75 Pro"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS95"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CS95 Plus"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan CX20"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Chana SC6350С"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Eado"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Eado Plus"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Explorer"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Hunter"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Hunter Plus"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Kaicene F70"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Lamore"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Oshan Z6"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Qiyuan A05"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Qiyuan A06"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Qiyuan A07"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Qiyuan Q05"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan Qiyuan Q07"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan UNI-K"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan UNI-T"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan UNI-V"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan UNI-Z"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan X5 Plus"
+  },
+  {
+    "brand": "Changan",
+    "model": "Changan X7 Plus"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Amulet"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Amulet (A15)"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Arrizo 6"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Bonus"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery C8"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Cowin"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery CrossEastar"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Eastar"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Fora"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Fulwin T9"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery IndiS"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Kimo (A1)"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery M11"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Omoda 5"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery QQ"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery QQ6 (S21)"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Sweet (QQ)"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 2"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 2 Pro"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 4"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 4 Pro"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 5"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 7"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 7 Plus"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 7 Pro"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 7 Pro Max"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 8"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 8 Pro"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 8 Pro Max"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Tiggo 9"
+  },
+  {
+    "brand": "Chery",
+    "model": "Chery Very"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Aveo"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Camaro"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Captiva"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Cobalt"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Cruze"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Damas"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Epica"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Equinox"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Lacetti"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Lanos"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Malibu"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Monza"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Nexia"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Niva"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Onix"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Orlando"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Spark"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Tahoe"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Tracker"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet TrailBlazer"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Suburban"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Traverse"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Matiz"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Express"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Blazer"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Colorado"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Corvette"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Silverado"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Evanda"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Rezzo"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Cavalier"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Seeker"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Menlo"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Trax"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Volt"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Viva"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Sonic"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Caprice"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Alero"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Astro"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Avalanche"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Impala"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Kalos"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Lumina"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Lumina APV"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Van"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Chevy Van"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler 200"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler 300C"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler 300M"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler Concorde"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler Crossfire"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler Neon"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler PT Cruiser"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler Pacifica"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler Sebring"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler Stratus"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler Voyager"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen AX"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen Berlingo"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C-Elysee"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C1"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C3"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C3 Aircross"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C3 Picasso"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C4"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C4 Picasso"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C5"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen C5 X"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen DS4"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen DS5"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen Jumper"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen Jumpy"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen Saxo"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen SpaceTourer"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen Xantia"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen Xsara"
+  },
+  {
+    "brand": "Citroen",
+    "model": "Citroen Xsara Picasso"
+  },
+  {
+    "brand": "Dacia",
+    "model": "Dacia Duster"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Arcadia"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Cielo"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Damas"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Espero"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Gentra"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Kalos"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Lacetti"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Lanos"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Leganza"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Magnus"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Matiz"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Matiz Creative"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Nexia"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Nubira"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Racer"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Rezzo"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Tacuma"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Tico"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Tosca"
+  },
+  {
+    "brand": "Daewoo",
+    "model": "Daewoo Winstorm"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Applause"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Charade"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Cuore"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Feroza"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Gran Move"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Pyzar"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Rocky"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Sirion"
+  },
+  {
+    "brand": "Daihatsu",
+    "model": "Daihatsu Terios"
+  },
+  {
+    "brand": "Datsun",
+    "model": "Datsun mi-Do"
+  },
+  {
+    "brand": "Datsun",
+    "model": "Datsun on-DO"
+  },
+  {
+    "brand": "Deepal",
+    "model": "Deepal G318"
+  },
+  {
+    "brand": "Deepal",
+    "model": "Deepal S05"
+  },
+  {
+    "brand": "Deepal",
+    "model": "Deepal S07"
+  },
+  {
+    "brand": "Deepal",
+    "model": "Deepal S09"
+  },
+  {
+    "brand": "Deepal",
+    "model": "Deepal SL03"
+  },
+  {
+    "brand": "Denza",
+    "model": "Denza N8L"
+  },
+  {
+    "brand": "Denza",
+    "model": "Denza N9"
+  },
+  {
+    "brand": "DFSK",
+    "model": "DFSK C31"
+  },
+  {
+    "brand": "DFSK",
+    "model": "DFSK C35"
+  },
+  {
+    "brand": "DFSK",
+    "model": "DFSK C37"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Avenger"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Caliber"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Caravan"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Challenger"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Charger"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Dakota"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Daytona"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Durango"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Intrepid"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Magnum"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Neon"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Nitro"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge RAM"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Ram Van"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Stratus"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng 580"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Aeolus Haoji"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Aeolus L7"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Aeolus L8"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng EP 007"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng EQ5032"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng EQ6380"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng EX1"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Fengon E5"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Forthing T5 EVO"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Forthing T5L"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng H30 Cross"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Mengshi M-Hero 817"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Nano (Nammi)"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Paladin"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Rich"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng S30"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Shine"
+  },
+  {
+    "brand": "DongFeng",
+    "model": "DongFeng Yipai 008"
+  },
+  {
+    "brand": "Enovate",
+    "model": "Enovate ME7"
+  },
+  {
+    "brand": "EXEED",
+    "model": "EXEED Exlantix ES"
+  },
+  {
+    "brand": "EXEED",
+    "model": "EXEED LX"
+  },
+  {
+    "brand": "EXEED",
+    "model": "EXEED RX"
+  },
+  {
+    "brand": "EXEED",
+    "model": "EXEED TXL"
+  },
+  {
+    "brand": "EXEED",
+    "model": "EXEED VX"
+  },
+  {
+    "brand": "Farizon",
+    "model": "Farizon Xingxiang V6"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW 1010"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW 1021"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW 1024"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW 6350"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW 6371"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW 6390"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW Bestune B70"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW Bestune T77"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW Besturn B50"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW Besturn X40"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW Landmark"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW N5"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW Oley"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW S80"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW T80"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW V2"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW V5"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW V80"
+  },
+  {
+    "brand": "FAW",
+    "model": "FAW Vita"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Ferrari 488"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Ferrari California"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Ferrari F430"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Ferrari F8"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat 500"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Barchetta"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Brava"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Bravo"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Doblo"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Ducato"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Fiorino"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Linea"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Marea"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Palio"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Panda"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Punto"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Scudo"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Stilo"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Fiat Tempra"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Bronco"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Edge"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Escape"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Escort"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Expedition"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Explorer"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford F-Series"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Fiesta"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Focus"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Fusion"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Fusion (North America)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Galaxy"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Kuga"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Maverick"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Mondeo"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Mustang"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Ranger"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Scorpio"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Sierra"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Transit"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford EcoSport"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Taurus"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Bronco Sport"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Econoline"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Probe"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford C-Max"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Mustang Mach-E"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Escort (North America)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Ranger (North America)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Excursion"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford KA"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Orion"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford S-Max"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Taunus"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Tourneo Connect"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Transit Connect"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Everest"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Granada"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Torino"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Contour"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Econovan"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Courier Van"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Tourneo Custom"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Windstar"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Freestyle"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Telstar"
+  },
+  {
+    "brand": "Forthing",
+    "model": "Forthing Yacht"
+  },
+  {
+    "brand": "Foton",
+    "model": "Foton Alpha"
+  },
+  {
+    "brand": "Foton",
+    "model": "Foton Mars 7"
+  },
+  {
+    "brand": "Foton",
+    "model": "Foton Saga"
+  },
+  {
+    "brand": "Foton",
+    "model": "Foton Tunland"
+  },
+  {
+    "brand": "Foton",
+    "model": "Foton View"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC Aion Hyper GT"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC Aion V"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC E9"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC Empow"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC GS3"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC GS4"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC GS5"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC GS8"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC Gonow GA6461"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC Trumpchi E8"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC Trumpchi M8"
+  },
+  {
+    "brand": "GAC",
+    "model": "GAC Trumpchi S7"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Atlas"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Azkarra"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely CK"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Coolray"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely EX5"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Emgrand"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Emgrand 7"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Emgrand EC7"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Emgrand X7"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely FC"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Farizon FX"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely GC6"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely GC7"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Geometry E"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely MK"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Monjaro"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Okavango"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely SC7"
+  },
+  {
+    "brand": "Geely",
+    "model": "Geely Tugella"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy A7"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy Cityray"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy EX2"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy EX5"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy EX5 EM-i"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy M9"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy Preface"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy Starshine 6"
+  },
+  {
+    "brand": "Geely Galaxy",
+    "model": "Geely Galaxy Starship 7"
+  },
+  {
+    "brand": "Genesis",
+    "model": "Genesis G70"
+  },
+  {
+    "brand": "Genesis",
+    "model": "Genesis G80"
+  },
+  {
+    "brand": "Genesis",
+    "model": "Genesis G90"
+  },
+  {
+    "brand": "Genesis",
+    "model": "Genesis GV70"
+  },
+  {
+    "brand": "Genesis",
+    "model": "Genesis GV80"
+  },
+  {
+    "brand": "Genesis",
+    "model": "Genesis GV80 Coupe"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Acadia"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Envoy"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Savana"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Sierra"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Yukon"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Deer"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Hover"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Hover H3"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Hover H5"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Hover M4"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Poer"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Poer KingKong"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Safe"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Sailor"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Wingle 5"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Wingle 6"
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Great Wall Wingle 7"
+  },
+  {
+    "brand": "Haima",
+    "model": "Haima M3"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval Chitu"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval Dargo"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval Dargo x"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval F7"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval F7x"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval H5"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval H6"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval H6 GT"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval H9"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval Jolion"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval M6"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval Shenshou"
+  },
+  {
+    "brand": "Haval",
+    "model": "Haval Xiaolong Max"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Accord"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda CR-V"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Civic"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Domani"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Element"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Elysion"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Fit"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda HR-V"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Inspire"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Integra"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Jazz"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Odyssey"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Orthia"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Pilot"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Prelude"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Saber"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Shuttle"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Stepwgn"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Stream"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda e:NS1"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Insight"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda S-MX"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Torneo"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda e:NP1"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Concerto"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Avancier"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Legend"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Ridgeline"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Logo"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Ascot"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Capa"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Rafaga"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Freed Spike"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda M-NV"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Partner"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Freed"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda FR-V"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Edix"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Crosstour"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda CR-X"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Airwave"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda City"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Crossroad"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Life"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Passport"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda N-WGN"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda X-NV"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda XR-V"
+  },
+  {
+    "brand": "Hongqi",
+    "model": "Hongqi E-HS3"
+  },
+  {
+    "brand": "Hongqi",
+    "model": "Hongqi E-HS9"
+  },
+  {
+    "brand": "Hongqi",
+    "model": "Hongqi E-QM5"
+  },
+  {
+    "brand": "Hongqi",
+    "model": "Hongqi H5"
+  },
+  {
+    "brand": "Hongqi",
+    "model": "Hongqi H6"
+  },
+  {
+    "brand": "Hongqi",
+    "model": "Hongqi H9"
+  },
+  {
+    "brand": "Hongqi",
+    "model": "Hongqi HS5"
+  },
+  {
+    "brand": "Hozon",
+    "model": "Hozon Neta Aya"
+  },
+  {
+    "brand": "Hozon",
+    "model": "Hozon Neta GT"
+  },
+  {
+    "brand": "Hozon",
+    "model": "Hozon Neta L"
+  },
+  {
+    "brand": "Hozon",
+    "model": "Hozon Neta S"
+  },
+  {
+    "brand": "Hozon",
+    "model": "Hozon Neta U"
+  },
+  {
+    "brand": "Hozon",
+    "model": "Hozon Neta V"
+  },
+  {
+    "brand": "Hummer",
+    "model": "Hummer H1"
+  },
+  {
+    "brand": "Hummer",
+    "model": "Hummer H2"
+  },
+  {
+    "brand": "Hummer",
+    "model": "Hummer H3"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Accent"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Avante"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Bayon"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Creta"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Custin"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Elantra"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Getz"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Grandeur"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai H-1"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Mufasa"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Palisade"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Porter"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Santa Fe"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Solaris"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Sonata"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Starex"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Staria"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Tucson"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai i20"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai i30"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Terracan"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Lafesta"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Matrix"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai i40"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai ix35"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Galloper"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Veloster"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Kona"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Trajet"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Tiburon"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Click"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Santa Cruz"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Equus"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Genesis"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai H 350"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Casper"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Santamo"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Aslan"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Ioniq 5"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Lavita"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Lantra"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Venue"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Veracruz"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Marcia"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Coupe"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Pony"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Tuscani"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Verna"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai H-100"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Ioniq"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Atos"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Grace"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Azera"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Genesis Coupe"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Ioniq 6"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Custo"
+  },
+  {
+    "brand": "iCar",
+    "model": "iCar 03"
+  },
+  {
+    "brand": "IM",
+    "model": "IM LS7"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti EX-Series"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti FX-Series"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti G-Series"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti I-Series"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti JX-Series"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti M-Series"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti Q30"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti Q50"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti Q60"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti Q70"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti QX30"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti QX4"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti QX50"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti QX55"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti QX56"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti QX60"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti QX70"
+  },
+  {
+    "brand": "Infiniti",
+    "model": "Infiniti QX80"
+  },
+  {
+    "brand": "Iran Khodro",
+    "model": "Iran Khodro Peugeot Pars"
+  },
+  {
+    "brand": "Iran Khodro",
+    "model": "Iran Khodro Runna"
+  },
+  {
+    "brand": "Iran Khodro",
+    "model": "Iran Khodro Samand"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu Axiom"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu Bighorn"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu D-Max"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu MU"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu MU-X"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu Midi"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu Rodeo"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu TF (Pickup)"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu Trooper"
+  },
+  {
+    "brand": "Isuzu",
+    "model": "Isuzu VehiCross"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC HFC 1027 PickUp"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC J3"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC J5"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC J6"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC J7"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC J7 Plus"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC JS4"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC JS5"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC JS6"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC JS8"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC M3 (Refine)"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC M4 (Refine)"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC N35"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC S1"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC S3"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC S3 Pro"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC S4"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC S5"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC S7"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC Sunray"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC T6"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC T8 Pro"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC T9 Hunter"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC iEV7S"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC iEVS4"
+  },
+  {
+    "brand": "JAC",
+    "model": "JAC ГАЗель"
+  },
+  {
+    "brand": "Jaecoo",
+    "model": "Jaecoo J7"
+  },
+  {
+    "brand": "Jaecoo",
+    "model": "Jaecoo J8"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar E-Pace"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar F-Pace"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar F-Type"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar S-Type"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar X-Type"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar XE"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar XF"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar XJ"
+  },
+  {
+    "brand": "Jaguar",
+    "model": "Jaguar XK"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep CJ"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Cherokee"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Commander"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Compass"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Gladiator"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Grand Cherokee"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Grand Wagoneer"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Liberty"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Patriot"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Renegade"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Wrangler"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour Dashing"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour Shanhai L7"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour Shanhai L9"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour T1"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour T2"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour X50"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour X70"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour X70 PRO"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour X70 Plus"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour X90"
+  },
+  {
+    "brand": "Jetour",
+    "model": "Jetour X90 Plus"
+  },
+  {
+    "brand": "Jetta",
+    "model": "Jetta VS7"
+  },
+  {
+    "brand": "JinBei",
+    "model": "JinBei Haise"
+  },
+  {
+    "brand": "JinBei",
+    "model": "JinBei Hiace"
+  },
+  {
+    "brand": "JinBei",
+    "model": "JinBei X30"
+  },
+  {
+    "brand": "JMC",
+    "model": "JMC Dadao"
+  },
+  {
+    "brand": "JMC",
+    "model": "JMC Vigus"
+  },
+  {
+    "brand": "Kaiyi",
+    "model": "Kaiyi E5"
+  },
+  {
+    "brand": "Kaiyi",
+    "model": "Kaiyi X3"
+  },
+  {
+    "brand": "Kaiyi",
+    "model": "Kaiyi X3 Pro"
+  },
+  {
+    "brand": "Kaiyi",
+    "model": "Kaiyi X7"
+  },
+  {
+    "brand": "Karry",
+    "model": "Karry K60 EV"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Bongo"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Carens"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Carnival"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Cee'd"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Cerato"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia K3"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia K5"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia K7"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia K8"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Morning"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Optima"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Picanto"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Rio"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Rio X-Line"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Seltos"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Sorento"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Soul"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Spectra"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Sportage"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Stinger"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Cadenza"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia K9"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Soluto"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Mohave"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Sedona"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Quoris"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Telluride"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Ray"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Magentis"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Forte"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Credos"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Opirus"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Sephia"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia XCeed"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Pride"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Retona"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Shuma"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Lotze"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia EV9"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia EV5"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia KX1"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia EV6"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Clarus"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Pregio"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Avella"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia K900"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Joice"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Stonic"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Rocsta"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Topic"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Tasman"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Enterprise"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Venga"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Pegas"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Lamborghini Aventador"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Lamborghini Huracan"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Lamborghini Urus"
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Land Rover Defender"
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Land Rover Discovery"
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Land Rover Discovery Sport"
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Land Rover Freelander"
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Land Rover Range Rover"
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Land Rover Range Rover Evoque"
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Land Rover Range Rover Sport"
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Land Rover Range Rover Velar"
+  },
+  {
+    "brand": "Leapmotor",
+    "model": "Leapmotor B10"
+  },
+  {
+    "brand": "Leapmotor",
+    "model": "Leapmotor C01"
+  },
+  {
+    "brand": "Leapmotor",
+    "model": "Leapmotor C11"
+  },
+  {
+    "brand": "Leapmotor",
+    "model": "Leapmotor C16"
+  },
+  {
+    "brand": "Leapmotor",
+    "model": "Leapmotor С10"
+  },
+  {
+    "brand": "Leopaard",
+    "model": "Leopaard Coupe"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus CT"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus ES"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus GS"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus GX"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus HS"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus IS"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus LC"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus LM"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus LS"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus LX"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus NX"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus RC"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus RX"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus RZ"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus SC"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus TX"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus UX"
+  },
+  {
+    "brand": "Li",
+    "model": "Li L6"
+  },
+  {
+    "brand": "Li",
+    "model": "Li L7"
+  },
+  {
+    "brand": "Li",
+    "model": "Li L8"
+  },
+  {
+    "brand": "Li",
+    "model": "Li L9"
+  },
+  {
+    "brand": "Li",
+    "model": "Li Mega"
+  },
+  {
+    "brand": "Li",
+    "model": "Li One"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan Breez"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan Cebrium"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan M7"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan Murman"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan MyWay"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan Smily"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan Solano"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan X50"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan X60"
+  },
+  {
+    "brand": "Lifan",
+    "model": "Lifan X70"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Lincoln Aviator"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Lincoln Continental"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Lincoln LS"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Lincoln MKX"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Lincoln MKZ"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Lincoln Mark VIII"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Lincoln Navigator"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Lincoln Town Car"
+  },
+  {
+    "brand": "Livan",
+    "model": "Livan  X3 Pro"
+  },
+  {
+    "brand": "Lotus",
+    "model": "Lotus Eletre"
+  },
+  {
+    "brand": "Lotus",
+    "model": "Lotus Emira"
+  },
+  {
+    "brand": "Lotus",
+    "model": "Lotus Exige"
+  },
+  {
+    "brand": "Lynk & Co",
+    "model": "Lynk & Co 03"
+  },
+  {
+    "brand": "Lynk & Co",
+    "model": "Lynk & Co 05"
+  },
+  {
+    "brand": "Lynk & Co",
+    "model": "Lynk & Co 06"
+  },
+  {
+    "brand": "Lynk & Co",
+    "model": "Lynk & Co 08 EM-P"
+  },
+  {
+    "brand": "Lynk & Co",
+    "model": "Lynk & Co 09"
+  },
+  {
+    "brand": "Lynk & Co",
+    "model": "Lynk & Co 900"
+  },
+  {
+    "brand": "Maserati",
+    "model": "Maserati Ghibli"
+  },
+  {
+    "brand": "Maserati",
+    "model": "Maserati GranCabrio"
+  },
+  {
+    "brand": "Maserati",
+    "model": "Maserati GranTurismo"
+  },
+  {
+    "brand": "Maserati",
+    "model": "Maserati Grecale"
+  },
+  {
+    "brand": "Maserati",
+    "model": "Maserati Levante"
+  },
+  {
+    "brand": "Maserati",
+    "model": "Maserati Quattroporte"
+  },
+  {
+    "brand": "Maxus",
+    "model": "Maxus G10"
+  },
+  {
+    "brand": "Maybach",
+    "model": "Maybach 57"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda 121"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda 323"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda 626"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda 929"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Atenza"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Axela"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda B - series"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda BT-50"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Bongo"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Bongo Friendee"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda CX-5"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda CX-50"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda CX-7"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda CX-9"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda CX-90"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Capella"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Cronos"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Demio"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda EZ-60"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Efini MS-8"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Eunos 500"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Eunos 800"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Familia"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Lantis"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda MPV"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda MX-3"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda MX-5"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda MX-6"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Millenia"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Premacy"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Protege"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda RX-8"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Sentia"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Tribute"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Xedos 6"
+  },
+  {
+    "brand": "Mazda",
+    "model": "Mazda Xedos 9"
+  },
+  {
+    "brand": "McLaren",
+    "model": "McLaren 570S"
+  },
+  {
+    "brand": "McLaren",
+    "model": "McLaren 720S"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz 190"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz A-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz B-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz C-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz CLA-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz CLK-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz CLS-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz E-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz G-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GL-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLE Coupe"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLE-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLK-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLS-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz ML-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz S-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz Sprinter"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz V-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz Viano"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz Vito"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz CL-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz AMG GT"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLC-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLA-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz SLK-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLC Coupe"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz MB 100"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz SL-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz R-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz Vaneo"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz EQC"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz EQE SUV"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLB-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz EQS"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz EQS SUV"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz CLE-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz EQE"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz EQV"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz SLC-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz X-Класс"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz EQA"
+  },
+  {
+    "brand": "Mercedes-Maybach",
+    "model": "Mercedes-Maybach GLS-Класс"
+  },
+  {
+    "brand": "Mercedes-Maybach",
+    "model": "Mercedes-Maybach S-Класс"
+  },
+  {
+    "brand": "MG",
+    "model": "MG 350"
+  },
+  {
+    "brand": "MG",
+    "model": "MG 5 Scorpio"
+  },
+  {
+    "brand": "MG",
+    "model": "MG Cyberster"
+  },
+  {
+    "brand": "MG",
+    "model": "MG HS"
+  },
+  {
+    "brand": "MG",
+    "model": "MG RX9"
+  },
+  {
+    "brand": "MG",
+    "model": "MG ZS"
+  },
+  {
+    "brand": "Mini",
+    "model": "Mini Cabrio"
+  },
+  {
+    "brand": "Mini",
+    "model": "Mini Clubman"
+  },
+  {
+    "brand": "Mini",
+    "model": "Mini Countryman"
+  },
+  {
+    "brand": "Mini",
+    "model": "Mini Coupe"
+  },
+  {
+    "brand": "Mini",
+    "model": "Mini Hatch"
+  },
+  {
+    "brand": "Mini",
+    "model": "Mini Paceman"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi ASX"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Airtrek"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Carisma"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Challenger"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Chariot"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Delica"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Diamante"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Galant"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi L200"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Lancer"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Montero"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Montero Sport"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Outlander"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Pajero"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Pajero Sport"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Pajero iO"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi RVR"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Space Runner"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Space Star"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Space Wagon"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Eclipse"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Colt"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Legnum"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Space Gear"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Grandis"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Xpander Cross"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Xpander"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Eclipse Cross"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi L300"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Pajero Junior"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Outlander Sport"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Delica D:5"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Nativa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Endeavor"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Pajero Pinin"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Mirage"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi FTO"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi GTO"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Pajero Evolution"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Destinator"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Dingo"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Libero"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Lancer Evolution"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi 3000 GT"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi L400"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Dion"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Eterna"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Pajero Mini"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Sapporo"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Attrage"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Jeep"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Xforce"
+  },
+  {
+    "brand": "Nio",
+    "model": "Nio ES6"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Almera"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Almera Classic"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Almera Tino"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Altima"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Cefiro"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Juke"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Maxima"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Mistral"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Murano"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Note"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Pathfinder"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Patrol"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Primera"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Qashqai"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Serena"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Sunny"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Teana"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Terrano"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Tiida"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan X-Trail"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Micra"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Sentra"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan R'nessa"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Rogue"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Skyline"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Bluebird"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Quest"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Elgrand"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Xterra"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Prairie"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Navara"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Presage"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Fuga"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan March"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Largo"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Versa"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Tino"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Laurel"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Urvan"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Wingroad"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan NP300"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Avenir"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Liberty"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Vanette"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Cube"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Gloria"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Pulsar"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Prairie Joy"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Armada"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Cedric"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Presea"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Terra"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Frontier"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Stagea"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Safari"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan 100NX"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan AD"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Leaf"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Titan"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Rasheen"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Caravan"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Kicks"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan X-Terra"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan GT-R"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Leopard"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Datsun"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan 370Z"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan 350Z"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Lafesta"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Moco"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Ariya"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Primera Camino"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Pickup"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan NX8"
+  },
+  {
+    "brand": "OMODA",
+    "model": "OMODA C5"
+  },
+  {
+    "brand": "OMODA",
+    "model": "OMODA C7"
+  },
+  {
+    "brand": "OMODA",
+    "model": "OMODA S5"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Agila"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Antara"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Ascona"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Astra"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Calibra"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Combo"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Corsa"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Crossland"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Frontera"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Grandland X"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Insignia"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Kadett"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Meriva"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Mokka"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Monterey"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Movano"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Omega"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Rekord"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Signum"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Sintra"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Tigra"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Vectra"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Vita"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Vivaro"
+  },
+  {
+    "brand": "Opel",
+    "model": "Opel Zafira"
+  },
+  {
+    "brand": "Ora",
+    "model": "Ora 03"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 1007"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 106"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 107"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 206"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 207"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 3008"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 301"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 307"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 308"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 4008"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 405"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 406"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 407"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 408"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 508"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 605"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 607"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot 806"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot Boxer"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Peugeot Partner"
+  },
+  {
+    "brand": "Polar Stone",
+    "model": "Polar Stone Jishi 01"
+  },
+  {
+    "brand": "Polestar",
+    "model": "Polestar 2"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche 911"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche 924"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche Boxster"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche Cayenne"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche Cayenne Coupe"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche Cayman"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche Macan"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche Panamera"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche Taycan"
+  },
+  {
+    "brand": "Proton",
+    "model": "Proton Persona"
+  },
+  {
+    "brand": "Radar",
+    "model": "Radar RD6"
+  },
+  {
+    "brand": "RAM",
+    "model": "RAM 1500"
+  },
+  {
+    "brand": "Ravon",
+    "model": "Ravon Gentra"
+  },
+  {
+    "brand": "Ravon",
+    "model": "Ravon Matiz"
+  },
+  {
+    "brand": "Ravon",
+    "model": "Ravon Nexia R3"
+  },
+  {
+    "brand": "Ravon",
+    "model": "Ravon R2"
+  },
+  {
+    "brand": "Ravon",
+    "model": "Ravon R4"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault 19"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault 21"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault 25"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Arkana"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Captur"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Clio"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Dokker"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Duster"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Espace"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Express"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Fluence"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Kangoo"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Kaptur"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Koleos"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Laguna"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Latitude"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Logan"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Logan Stepway"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Master"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Megane"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Safrane"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Sandero"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Scenic"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Symbol"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Trafic"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Twingo"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Twizy"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault Vel Satis"
+  },
+  {
+    "brand": "Rivian",
+    "model": "Rivian R1S"
+  },
+  {
+    "brand": "Roewe",
+    "model": "Roewe Marvel X"
+  },
+  {
+    "brand": "Roewe",
+    "model": "Roewe i5"
+  },
+  {
+    "brand": "Rolls-Royce",
+    "model": "Rolls-Royce Cullinan"
+  },
+  {
+    "brand": "Rolls-Royce",
+    "model": "Rolls-Royce Ghost"
+  },
+  {
+    "brand": "Rolls-Royce",
+    "model": "Rolls-Royce Phantom"
+  },
+  {
+    "brand": "Rolls-Royce",
+    "model": "Rolls-Royce Spectre"
+  },
+  {
+    "brand": "Rolls-Royce",
+    "model": "Rolls-Royce Wraith"
+  },
+  {
+    "brand": "Rover",
+    "model": "Rover 200 Series"
+  },
+  {
+    "brand": "Rover",
+    "model": "Rover 25"
+  },
+  {
+    "brand": "Rover",
+    "model": "Rover 45"
+  },
+  {
+    "brand": "Rover",
+    "model": "Rover 600 Series"
+  },
+  {
+    "brand": "Rover",
+    "model": "Rover 75"
+  },
+  {
+    "brand": "Rover",
+    "model": "Rover 800 Series"
+  },
+  {
+    "brand": "Rover",
+    "model": "Rover Mini"
+  },
+  {
+    "brand": "Rox",
+    "model": "Rox 01"
+  },
+  {
+    "brand": "Rox",
+    "model": "Rox Adamas"
+  },
+  {
+    "brand": "Saab",
+    "model": "Saab 9-3"
+  },
+  {
+    "brand": "Saab",
+    "model": "Saab 9-5"
+  },
+  {
+    "brand": "Saab",
+    "model": "Saab 9-7X"
+  },
+  {
+    "brand": "Saab",
+    "model": "Saab 900"
+  },
+  {
+    "brand": "Saab",
+    "model": "Saab 9000"
+  },
+  {
+    "brand": "Renault Samsung",
+    "model": "Renault Samsung QM5"
+  },
+  {
+    "brand": "Renault Samsung",
+    "model": "Renault Samsung QM6"
+  },
+  {
+    "brand": "Renault Samsung",
+    "model": "Renault Samsung SM3"
+  },
+  {
+    "brand": "Renault Samsung",
+    "model": "Renault Samsung SM5"
+  },
+  {
+    "brand": "Renault Samsung",
+    "model": "Renault Samsung SM6"
+  },
+  {
+    "brand": "Renault Samsung",
+    "model": "Renault Samsung SM7"
+  },
+  {
+    "brand": "Renault Samsung",
+    "model": "Renault Samsung XM3"
+  },
+  {
+    "brand": "Scion",
+    "model": "Scion tC"
+  },
+  {
+    "brand": "Scion",
+    "model": "Scion xA"
+  },
+  {
+    "brand": "Scion",
+    "model": "Scion xB"
+  },
+  {
+    "brand": "РАФ",
+    "model": "РАФ 2203 (Латвия)"
+  },
+  {
+    "brand": "ЗАЗ",
+    "model": "ЗАЗ 1102 (Таврия)"
+  },
+  {
+    "brand": "ЗАЗ",
+    "model": "ЗАЗ 965"
+  },
+  {
+    "brand": "ЗАЗ",
+    "model": "ЗАЗ 968"
+  },
+  {
+    "brand": "ЗАЗ",
+    "model": "ЗАЗ Chance"
+  },
+  {
+    "brand": "ЗАЗ",
+    "model": "ЗАЗ Forza"
+  },
+  {
+    "brand": "ЗАЗ",
+    "model": "ЗАЗ Sens"
+  },
+  {
+    "brand": "ЗАЗ",
+    "model": "ЗАЗ Vida"
+  },
+  {
+    "brand": "ВИС",
+    "model": "ВИС 2345 (Жигули)"
+  },
+  {
+    "brand": "ВИС",
+    "model": "ВИС 2347 (LADA Samara)"
+  },
+  {
+    "brand": "ВИС",
+    "model": "ВИС 2349 (LADA Granta)"
+  },
+  {
+    "brand": "SEAT",
+    "model": "SEAT Alhambra"
+  },
+  {
+    "brand": "SEAT",
+    "model": "SEAT Altea"
+  },
+  {
+    "brand": "SEAT",
+    "model": "SEAT Cordoba"
+  },
+  {
+    "brand": "SEAT",
+    "model": "SEAT Leon"
+  },
+  {
+    "brand": "SEAT",
+    "model": "SEAT Toledo"
+  },
+  {
+    "brand": "Seres",
+    "model": "Seres SF5"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Fabia"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Favorit"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Felicia"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Forman"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Kamiq"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Karoq"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Kodiaq"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Octavia"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Rapid"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Roomster"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Scala"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Superb"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Skoda Yeti"
+  },
+  {
+    "brand": "Smart",
+    "model": "Smart Fortwo"
+  },
+  {
+    "brand": "Smart",
+    "model": "Smart Roadster"
+  },
+  {
+    "brand": "Soueast",
+    "model": "Soueast S06"
+  },
+  {
+    "brand": "Soueast",
+    "model": "Soueast S07"
+  },
+  {
+    "brand": "Soueast",
+    "model": "Soueast S09"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Actyon"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Actyon Sports"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Chairman"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Istana"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Korando"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Korando Family"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Kyron"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Musso"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Nomad"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Rexton"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Rodius"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Stavic"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Tivoli"
+  },
+  {
+    "brand": "SsangYong",
+    "model": "SsangYong Torres"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Ascent"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru BRZ"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Baja"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Crosstrek"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Forester"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Impreza"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Justy"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Legacy"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Legacy Lancaster"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Leone"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Levorg"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Libero"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Outback"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Stella"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Tribeca"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Vivio"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru WRX"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru WRX STi"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru XV"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Aerio"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Alto"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Baleno"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Ciaz"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Cultus"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Ertiga"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Escudo"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Fronx"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Grand Vitara"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Ignis"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Jimny"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Kizashi"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Liana"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki MR Wagon"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Reno"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki S-Presso"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki SX4"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Samurai"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Swift"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Vitara"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki Wagon R"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Suzuki XL7"
+  },
+  {
+    "brand": "Tank",
+    "model": "Tank 300"
+  },
+  {
+    "brand": "Tank",
+    "model": "Tank 400"
+  },
+  {
+    "brand": "Tank",
+    "model": "Tank 500"
+  },
+  {
+    "brand": "Tank",
+    "model": "Tank 700"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Tesla Cybertruck"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Tesla Model 3"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Tesla Model S"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Tesla Model X"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Tesla Model Y"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota 4Runner"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Alphard"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Avalon"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Avensis"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Camry"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Carina E"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corolla"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Estima"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Hiace"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Highlander"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Hilux"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Hilux Surf"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Ipsum"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Land Cruiser"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Land Cruiser Prado"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Mark II"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Previa"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota RAV4"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Sienna"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Windom"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Yaris"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Caldina"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Fortuner"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Venza"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Harrier"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Camry Gracia"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Vellfire"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Aristo"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Crown"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Chaser"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Sequoia"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corona"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Vista"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Tundra"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Crown Majesta"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Cresta"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota FJ Cruiser"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Carina ED"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Estima Lucida"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Carina"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Matrix"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Tacoma"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Spacio"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Prius"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota C-HR"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Avensis Verso"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Picnic"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Mark X"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corona Exiv"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Raum"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Celica"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Auris"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corolla Cross"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Mark II Qualis"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corolla Verso"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Scepter"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Sprinter Carib"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Altezza"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Starlet"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Solara"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Nadia"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota bZ3X"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota HiAce Regius"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Wish"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Sprinter"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Town Ace Noah"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Grand Hiace"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Rush"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Vitz"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Estima Emina"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Carina II"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Sprinter Marino"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Granvia"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Celsior"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Noah"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Urban Cruiser"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Lite Ace"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Verso"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Voxy"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Town Ace"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Isis"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Gaia"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota ProAce Verso"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corolla Ceres"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Aygo"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corsa"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Progres"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Supra"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota bZ4X"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Curren"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Aurion"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Innova"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Ist"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Mark X Zio"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Soarer"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Levin"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Cavalier"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Prius C"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Yaris Verso"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota xA"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota bZ3"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Passo"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Vios"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Prius V"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Brevis"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota bZ5"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota GR86"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Rumion"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Duet"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Frontlander"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Opa"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Veloz"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Platz"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Model F"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Verossa"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Tercel"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Sienta"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Premio"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Crown Kluger"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Paseo"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Echo"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Cynos"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Century"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota bB"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Allex"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota GT 86"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corolla Rumion"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Prius Prime"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Will Vi"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Master Ace Surf"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Camry Prominent"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Izoa"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Raize"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Porte"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Succeed"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota WiLL VS"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Ractis"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota MR2"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota iQ"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Fun Cargo"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Cami"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Crown Signia"
+  },
+  {
+    "brand": "VinFast",
+    "model": "VinFast VF5"
+  },
+  {
+    "brand": "VinFast",
+    "model": "VinFast VF9"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Amarok"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Beetle"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Bora"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Caddy"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Caravelle"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Golf"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen ID.4"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen ID.6"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Jetta"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen LT"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Multivan"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Passat"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Passat CC"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Polo"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Sharan"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Tiguan"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Touareg"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Touran"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Transporter"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Vento"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Crafter"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Teramont"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Taos"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Golf Plus"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Atlas"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Phaeton"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Gol"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Santana"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen California"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen e-Bora"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Scirocco"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Eurovan"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Tavendor"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Tharu"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen T-Roc"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Viloran"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Arteon"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Lavida"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen ID.3"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Routan"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Passat (USA)"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Lupo"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Pointer"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen e-Tharu"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Talagon"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 200 Series"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 440"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 460"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 480"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 740"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 760"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 850"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 940"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo 960"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo C30"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo S40"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo S60"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo S70"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo S80"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo S90"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo V40"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo V50"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo V60"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo V70"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo XC40"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo XC60"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo XC70"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo XC90"
+  },
+  {
+    "brand": "Voyah",
+    "model": "Voyah Dream"
+  },
+  {
+    "brand": "Voyah",
+    "model": "Voyah Free"
+  },
+  {
+    "brand": "Voyah",
+    "model": "Voyah Free Plus"
+  },
+  {
+    "brand": "Voyah",
+    "model": "Voyah Passion"
+  },
+  {
+    "brand": "Voyah",
+    "model": "Voyah Taishan"
+  },
+  {
+    "brand": "Voyah",
+    "model": "Voyah Taishan X8"
+  },
+  {
+    "brand": "Weltmeister",
+    "model": "Weltmeister EX5"
+  },
+  {
+    "brand": "Wey",
+    "model": "Wey 07"
+  },
+  {
+    "brand": "Wey",
+    "model": "Wey 80"
+  },
+  {
+    "brand": "Wey",
+    "model": "Wey Lanshan"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Bingo"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Bingo Plus"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Hongguang Mini EV"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Hongguang S"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Hongguang V"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Rongguang"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Starlight"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Starlight 560"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Starlight 730"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Starlight S"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Sunshine"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Xingchi"
+  },
+  {
+    "brand": "Wuling",
+    "model": "Wuling Yangguang"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi SU7"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi YU7"
+  },
+  {
+    "brand": "Xpeng",
+    "model": "Xpeng G3"
+  },
+  {
+    "brand": "Xpeng",
+    "model": "Xpeng G9"
+  },
+  {
+    "brand": "Xpeng",
+    "model": "Xpeng GX"
+  },
+  {
+    "brand": "Zeekr",
+    "model": "Zeekr 001"
+  },
+  {
+    "brand": "Zeekr",
+    "model": "Zeekr 007"
+  },
+  {
+    "brand": "Zeekr",
+    "model": "Zeekr 009"
+  },
+  {
+    "brand": "Zeekr",
+    "model": "Zeekr 7X"
+  },
+  {
+    "brand": "Zeekr",
+    "model": "Zeekr 8x"
+  },
+  {
+    "brand": "Zeekr",
+    "model": "Zeekr 9X"
+  },
+  {
+    "brand": "Zotye",
+    "model": "Zotye T300"
+  },
+  {
+    "brand": "ZX",
+    "model": "ZX Admiral"
+  },
+  {
+    "brand": "ZX",
+    "model": "ZX GrandLion"
+  },
+  {
+    "brand": "ZX",
+    "model": "ZX GrandTiger"
+  },
+  {
+    "brand": "ZX",
+    "model": "ZX Landmark"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 1111 Ока"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2101"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2102"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2103"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2104"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2105"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2106"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2107"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2108"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2109"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 21099"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2110"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2111"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2112"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2113"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2114"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2115"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2120 Надежда"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2121 (4x4)"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) 2123"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Granta"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Kalina"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Largus"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Largus Cross"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Niva Travel"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Priora"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Vesta"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Vesta SW"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) Vesta SW Cross"
+  },
+  {
+    "brand": "ВАЗ (Lada)",
+    "model": "ВАЗ (Lada) XRAY"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 12 ЗиМ"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 13 (Чайка)"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 14 (Чайка)"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 21 (Волга)"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 22 Волга"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 24 (Волга)"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 3102 Волга"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 310221 (Волга)"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 31029 Волга"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 3110 Волга"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 31105 Волга"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 67"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ 69"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ Siber"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ ГАЗель"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ ГАЗель NEXT"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ М-20 Победа"
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "ГАЗ Соболь"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ 3151"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ 3153"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ 3160"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ 3162"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ 3303"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ 469"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ Cargo"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ Hunter"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ Patriot"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ Pickup"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ Буханка"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ Профи"
+  },
+  {
+    "brand": "УАЗ",
+    "model": "УАЗ Фермер"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 2136"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 2140"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 2141"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 400"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 401"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 402"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 403"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 407"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 408"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич 412"
+  },
+  {
+    "brand": "Москвич",
+    "model": "Москвич Святогор"
+  },
+  {
+    "brand": "ТагАЗ",
+    "model": "ТагАЗ Aquila"
+  },
+  {
+    "brand": "ТагАЗ",
+    "model": "ТагАЗ Road Partner"
+  },
+  {
+    "brand": "ТагАЗ",
+    "model": "ТагАЗ Tager"
+  },
+  {
+    "brand": "ИЖ",
+    "model": "ИЖ 2125 (Комби)"
+  },
+  {
+    "brand": "ИЖ",
+    "model": "ИЖ 2126 (Ода)"
+  },
+  {
+    "brand": "ИЖ",
+    "model": "ИЖ 21261 (Фабула)"
+  },
+  {
+    "brand": "ИЖ",
+    "model": "ИЖ 2715"
+  },
+  {
+    "brand": "ИЖ",
+    "model": "ИЖ 2717"
+  },
+  {
+    "brand": "ИЖ",
+    "model": "ИЖ Москвич-412"
+  },
+  {
+    "brand": "ЛуАЗ",
+    "model": "ЛуАЗ 969"
+  }
+]

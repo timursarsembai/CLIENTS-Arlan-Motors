@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; }
+  ::selection { background: #D8232A; color: #fff; }
+  input, select, textarea, button { font-family: inherit; }
+  @keyframes amfade { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+</style>
+</helmet>
+
+<div style="font-family:'Manrope',system-ui,sans-serif; background:#FBFAF7; color:#15171B; -webkit-font-smoothing:antialiased; overflow-x:hidden;">
+
+  <!-- hazard top line -->
+  <div style="height:5px; background:repeating-linear-gradient(135deg,#F2C200 0 16px,#15171B 16px 32px);"></div>
+
+  <!-- ===== HEADER ===== -->
+  <header style="position:sticky; top:0; z-index:50; background:rgba(251,250,247,0.88); backdrop-filter:blur(12px); border-bottom:1px solid #E9E5DC;">
+    <div style="max-width:1200px; margin:0 auto; padding:0 28px; height:74px; display:flex; align-items:center; justify-content:space-between; gap:24px;">
+      <a href="#top" style="display:flex; align-items:center; text-decoration:none;">
+        <img src="images/logo-horizontal-balanced.png" alt="Arlan Motors" style="height:56px; width:auto; display:block;">
+      </a>
+      <nav style="display:flex; align-items:center; gap:30px;">
+        <a href="#services" style="text-decoration:none; color:#3C4048; font-weight:600; font-size:14.5px;">Услуги</a>
+        <a href="#brands" style="text-decoration:none; color:#3C4048; font-weight:600; font-size:14.5px;">Бренды</a>
+        <a href="#prices" style="text-decoration:none; color:#3C4048; font-weight:600; font-size:14.5px;">Цены</a>
+        <a href="#places" style="text-decoration:none; color:#3C4048; font-weight:600; font-size:14.5px;">Адреса</a>
+        <a href="#faq" style="text-decoration:none; color:#3C4048; font-weight:600; font-size:14.5px;">Вопросы</a>
+      </nav>
+      <a href="{{ telHref }}" style="display:inline-flex; align-items:center; gap:9px; background:#15171B; color:#fff; text-decoration:none; padding:11px 18px; border-radius:10px; font-weight:700; font-size:14px;">
+        <span style="width:7px; height:7px; border-radius:50%; background:#6F913B;"></span>
+        +7 777 388 18 95
+      </a>
+    </div>
+  </header>
+
+  <!-- ===== HERO ===== -->
+  <section id="top" style="position:relative; background:#101216; color:#fff; overflow:hidden;">
+    <div style="position:absolute; inset:0; background-image:url('images/bays-cars.png'); background-size:cover; background-position:center; opacity:0.5;"></div>
+    <div style="position:absolute; inset:0; background:linear-gradient(100deg,#101216 30%,rgba(16,18,22,0.72) 60%,rgba(16,18,22,0.35) 100%);"></div>
+    <div style="position:relative; max-width:1200px; margin:0 auto; padding:96px 28px 104px; display:grid; grid-template-columns:1.15fr 0.85fr; gap:48px; align-items:center;">
+      <div style="animation:amfade 0.7s ease both;">
+        <div style="display:inline-flex; align-items:center; gap:10px; font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.16em; color:#F2C200; text-transform:uppercase; margin-bottom:26px;">
+          <span style="width:26px; height:2px; background:#F2C200;"></span>
+          Пункт замены масла · Май ауыстыру пункті
+        </div>
+        <h1 style="font-size:60px; line-height:1.04; font-weight:800; letter-spacing:-0.02em; margin:0 0 22px;">
+          Замена масла<br>за <span style="color:#FF3B3B;">20 минут</span>
+        </h1>
+        <p style="font-size:18px; line-height:1.55; color:#C4C7CE; max-width:520px; margin:0 0 14px;">
+          Оригинальные масла Shell Helix, Castrol и других брендов. Меняем моторное масло, масляный, воздушный и салонный фильтры — пока вы ждёте.
+        </p>
+        <p style="font-family:'JetBrains Mono',monospace; font-size:13px; color:#8A8E96; letter-spacing:0.02em; margin:0 0 34px;">
+          Таза · Тез · Түпнұсқа маймен
+        </p>
+        <div style="display:flex; gap:14px; flex-wrap:wrap;">
+          <a href="#book" style="display:inline-flex; align-items:center; gap:10px; background:#D8232A; color:#fff; text-decoration:none; padding:16px 26px; border-radius:12px; font-weight:700; font-size:16px; box-shadow:0 12px 30px -10px rgba(216,35,42,0.6);">
+            Записаться на замену
+          </a>
+          <a href="{{ waHref }}" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:10px; background:transparent; color:#fff; text-decoration:none; padding:16px 24px; border-radius:12px; font-weight:700; font-size:16px; border:1.5px solid rgba(255,255,255,0.28);">
+            <span style="width:9px; height:9px; border-radius:50%; background:#6F913B;"></span>
+            WhatsApp
+          </a>
+        </div>
+        <div style="display:flex; align-items:center; gap:28px; margin-top:40px; flex-wrap:wrap;">
+          <div style="display:flex; flex-direction:column; gap:3px;">
+            <span style="font-size:22px; font-weight:800;">4.9 <span style="color:#F2C200;">★</span></span>
+            <span style="font-size:12.5px; color:#8A8E96;">средняя оценка</span>
+          </div>
+          <div style="width:1px; height:34px; background:rgba(255,255,255,0.14);"></div>
+          <div style="display:flex; flex-direction:column; gap:3px;">
+            <span style="font-size:22px; font-weight:800;">3</span>
+            <span style="font-size:12.5px; color:#8A8E96;">точки в Талгаре</span>
+          </div>
+          <div style="width:1px; height:34px; background:rgba(255,255,255,0.14);"></div>
+          <div style="display:flex; flex-direction:column; gap:3px;">
+            <span style="font-size:22px; font-weight:800;">3 поста</span>
+            <span style="font-size:12.5px; color:#8A8E96;">без очередей</span>
+          </div>
+        </div>
+      </div>
+      <div style="animation:amfade 0.9s ease both;">
+        <div style="position:relative; border-radius:18px; overflow:hidden; border:1px solid rgba(255,255,255,0.12); box-shadow:0 40px 80px -30px rgba(0,0,0,0.7);">
+          <img src="images/facade.png" alt="Arlan Motors" style="width:100%; height:440px; object-fit:cover; display:block;">
+          <div style="position:absolute; left:0; bottom:0; width:100%; padding:18px 20px; background:linear-gradient(transparent,rgba(16,18,22,0.92)); display:flex; align-items:center; gap:10px;">
+            <span style="font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:0.12em; color:#F2C200;">АВТОМАГАЗИН · АВТОДҮКЕН</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="height:5px; background:repeating-linear-gradient(135deg,#F2C200 0 16px,#101216 16px 32px);"></div>
+  </section>
+
+  <!-- ===== SERVICES ===== -->
+  <section id="services" style="max-width:1200px; margin:0 auto; padding:96px 28px 40px;">
+    <div style="display:flex; align-items:flex-end; justify-content:space-between; gap:24px; margin-bottom:48px; flex-wrap:wrap;">
+      <div>
+        <div style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.18em; color:#D8232A; text-transform:uppercase; margin-bottom:14px;">Услуги · Қызметтер</div>
+        <h2 style="font-size:42px; font-weight:800; letter-spacing:-0.02em; margin:0; line-height:1.08;">Всё для вашего двигателя<br>в одном месте</h2>
+      </div>
+      <p style="max-width:340px; color:#6A6E76; font-size:15.5px; line-height:1.6; margin:0;">Подбираем масло под ваш автомобиль и сразу меняем его и фильтры. Авто и мото.</p>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:18px;">
+      <sc-for list="{{ services }}" as="s" hint-placeholder-count="6">
+        <div style="background:#fff; border:1px solid #EAE6DD; border-radius:16px; padding:30px 26px; display:flex; flex-direction:column; gap:14px; min-height:200px;" style-hover="border-color:#15171B; box-shadow:0 18px 40px -24px rgba(0,0,0,0.25);">
+          <div style="display:flex; align-items:center; justify-content:space-between;">
+            <span style="font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:600; color:#D8232A;">{{ s.no }}</span>
+            <span style="width:30px; height:30px; border-radius:8px; background:#F6F1E8; display:flex; align-items:center; justify-content:center; font-family:'JetBrains Mono',monospace; font-size:12px; color:#6F913B; font-weight:600;">{{ s.tag }}</span>
+          </div>
+          <h3 style="font-size:20px; font-weight:700; margin:6px 0 0; letter-spacing:-0.01em;">{{ s.ru }}</h3>
+          <div style="font-family:'JetBrains Mono',monospace; font-size:11.5px; color:#9AA0A8; letter-spacing:0.04em;">{{ s.kz }}</div>
+          <p style="color:#6A6E76; font-size:14.5px; line-height:1.55; margin:auto 0 0;">{{ s.desc }}</p>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <!-- ===== ADVANTAGES ===== -->
+  <section style="max-width:1200px; margin:0 auto; padding:56px 28px 96px;">
+    <div style="background:#15171B; border-radius:24px; padding:54px 48px; color:#fff; position:relative; overflow:hidden;">
+      <div style="position:absolute; right:-40px; top:-40px; width:240px; height:240px; border:2px solid rgba(111,145,59,0.25); border-radius:50%;"></div>
+      <div style="position:relative; margin-bottom:42px;">
+        <div style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.18em; color:#F2C200; text-transform:uppercase; margin-bottom:12px;">Почему мы · Артықшылықтар</div>
+        <h2 style="font-size:36px; font-weight:800; letter-spacing:-0.02em; margin:0;">Честно, быстро и без сюрпризов</h2>
+      </div>
+      <div style="position:relative; display:grid; grid-template-columns:repeat(4,1fr); gap:20px;">
+        <sc-for list="{{ advantages }}" as="a" hint-placeholder-count="4">
+          <div style="border-left:2px solid #D8232A; padding:6px 0 6px 18px;">
+            <div style="font-size:34px; font-weight:800; letter-spacing:-0.02em; margin-bottom:8px;">{{ a.stat }}</div>
+            <div style="font-size:15px; font-weight:600; color:#EDEFF2; margin-bottom:5px;">{{ a.title }}</div>
+            <div style="font-size:13px; color:#9296A0; line-height:1.5;">{{ a.desc }}</div>
+          </div>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== BRANDS ===== -->
+  <section id="brands" style="background:#fff; border-top:1px solid #EAE6DD; border-bottom:1px solid #EAE6DD;">
+    <div style="max-width:1200px; margin:0 auto; padding:90px 28px; display:grid; grid-template-columns:0.9fr 1.1fr; gap:56px; align-items:center;">
+      <div>
+        <div style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.18em; color:#D8232A; text-transform:uppercase; margin-bottom:14px;">Бренды масел · Май брендтері</div>
+        <h2 style="font-size:38px; font-weight:800; letter-spacing:-0.02em; margin:0 0 18px; line-height:1.1;">Только оригинальные масла</h2>
+        <p style="color:#6A6E76; font-size:15.5px; line-height:1.6; margin:0 0 26px;">В наличии всегда широкий ассортимент моторных и трансмиссионных масел ведущих производителей — для легковых авто, внедорожников и мототехники.</p>
+        <div style="border-radius:16px; overflow:hidden; border:1px solid #EAE6DD;">
+          <img src="images/shop-shelves.png" alt="Ассортимент масел" style="width:100%; height:260px; object-fit:cover; display:block;">
+        </div>
+      </div>
+      <div style="display:flex; flex-wrap:wrap; gap:12px; align-content:center;">
+        <sc-for list="{{ brands }}" as="b" hint-placeholder-count="11">
+          <span style="font-family:'JetBrains Mono',monospace; font-size:14px; font-weight:500; letter-spacing:0.06em; color:#2A2D33; border:1px solid #E2DED4; background:#FBFAF7; padding:14px 20px; border-radius:10px;">{{ b }}</span>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PRICES ===== -->
+  <section id="prices" style="max-width:1200px; margin:0 auto; padding:96px 28px;">
+    <div style="display:grid; grid-template-columns:1fr 0.9fr; gap:48px; align-items:start;">
+      <div>
+        <div style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.18em; color:#D8232A; text-transform:uppercase; margin-bottom:14px;">Цены · Бағалар</div>
+        <h2 style="font-size:40px; font-weight:800; letter-spacing:-0.02em; margin:0 0 30px; line-height:1.08;">Прозрачный прайс</h2>
+        <div style="border:1px solid #EAE6DD; border-radius:16px; overflow:hidden; background:#fff;">
+          <sc-for list="{{ prices }}" as="p" hint-placeholder-count="6">
+            <div style="display:flex; align-items:center; justify-content:space-between; gap:16px; padding:18px 22px; border-bottom:1px solid #F0ECE3;">
+              <div>
+                <div style="font-weight:600; font-size:15.5px;">{{ p.ru }}</div>
+                <div style="font-family:'JetBrains Mono',monospace; font-size:11px; color:#9AA0A8; margin-top:3px; letter-spacing:0.04em;">{{ p.kz }}</div>
+              </div>
+              <div style="font-weight:700; font-size:15px; color:{{ p.color }}; white-space:nowrap;">{{ p.price }}</div>
+            </div>
+          </sc-for>
+          <div style="padding:16px 22px; font-size:13px; color:#9AA0A8; background:#FBFAF7;">Итоговую стоимость уточняйте по телефону — зависит от объёма и марки масла.</div>
+        </div>
+      </div>
+      <div style="background:#15171B; color:#fff; border-radius:20px; padding:40px 36px; position:relative; overflow:hidden;">
+        <div style="position:absolute; right:-30px; bottom:-30px; width:160px; height:160px; border:2px solid rgba(216,35,42,0.3); border-radius:50%;"></div>
+        <h3 style="font-size:22px; font-weight:800; margin:0 0 6px;">Способы оплаты</h3>
+        <div style="font-family:'JetBrains Mono',monospace; font-size:11px; color:#F2C200; letter-spacing:0.1em; margin-bottom:26px;">ТӨЛЕМ ТӘСІЛДЕРІ</div>
+        <div style="display:flex; flex-direction:column; gap:14px;">
+          <sc-for list="{{ payments }}" as="m" hint-placeholder-count="5">
+            <div style="display:flex; align-items:center; gap:12px;">
+              <span style="width:8px; height:8px; border-radius:2px; background:#6F913B; flex:none;"></span>
+              <span style="font-size:15px; color:#E7E9EC;">{{ m }}</span>
+            </div>
+          </sc-for>
+        </div>
+        <a href="#book" style="display:inline-flex; margin-top:30px; background:#D8232A; color:#fff; text-decoration:none; padding:14px 22px; border-radius:11px; font-weight:700; font-size:15px;">Узнать цену для моего авто</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PLACES ===== -->
+  <section id="places" style="background:#fff; border-top:1px solid #EAE6DD;">
+    <div style="max-width:1200px; margin:0 auto; padding:90px 28px;">
+      <div style="margin-bottom:44px;">
+        <div style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.18em; color:#D8232A; text-transform:uppercase; margin-bottom:14px;">Адреса · Мекенжайлар</div>
+        <h2 style="font-size:40px; font-weight:800; letter-spacing:-0.02em; margin:0; line-height:1.08;">Три точки рядом с вами</h2>
+      </div>
+      <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:20px;">
+        <sc-for list="{{ locations }}" as="l" hint-placeholder-count="3">
+          <div style="border:1px solid #EAE6DD; border-radius:18px; overflow:hidden; background:#FBFAF7; display:flex; flex-direction:column;">
+            <div style="height:150px; background-image:url('images/facade.png'); background-size:cover; background-position:center; position:relative;">
+              <span style="position:absolute; top:14px; left:14px; background:#15171B; color:#fff; font-family:'JetBrains Mono',monospace; font-size:12px; font-weight:600; padding:6px 11px; border-radius:8px;">{{ l.no }}</span>
+            </div>
+            <div style="padding:24px; display:flex; flex-direction:column; gap:10px; flex:1;">
+              <h3 style="font-size:18px; font-weight:700; margin:0;">{{ l.city }}</h3>
+              <div style="color:#3C4048; font-size:15px;">{{ l.addr }}</div>
+              <div style="display:flex; align-items:center; gap:8px; color:#6A6E76; font-size:13.5px;">
+                <span style="width:6px; height:6px; border-radius:50%; background:#6F913B;"></span>
+                Пн–Вс · 08:30–19:00
+              </div>
+              <a href="{{ l.map }}" target="_blank" rel="noopener" style="margin-top:auto; display:inline-flex; align-items:center; gap:8px; color:#D8232A; font-weight:700; font-size:14px; text-decoration:none; padding-top:8px;">Открыть на карте →</a>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== REVIEWS ===== -->
+  <section style="max-width:1200px; margin:0 auto; padding:96px 28px;">
+    <div style="margin-bottom:44px;">
+      <div style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.18em; color:#D8232A; text-transform:uppercase; margin-bottom:14px;">Отзывы · Пікірлер</div>
+      <h2 style="font-size:40px; font-weight:800; letter-spacing:-0.02em; margin:0; line-height:1.08;">Что говорят клиенты</h2>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:20px;">
+      <sc-for list="{{ reviews }}" as="r" hint-placeholder-count="3">
+        <div style="background:#fff; border:1px solid #EAE6DD; border-radius:18px; padding:30px 28px; display:flex; flex-direction:column; gap:16px;">
+          <div style="color:#F2C200; font-size:16px; letter-spacing:2px;">★★★★★</div>
+          <p style="font-size:15.5px; line-height:1.6; color:#2A2D33; margin:0; flex:1;">{{ r.text }}</p>
+          <div style="display:flex; align-items:center; gap:12px; padding-top:6px; border-top:1px solid #F0ECE3;">
+            <span style="width:38px; height:38px; border-radius:50%; background:#15171B; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:15px;">{{ r.ini }}</span>
+            <div>
+              <div style="font-weight:700; font-size:14.5px;">{{ r.name }}</div>
+              <div style="font-size:12.5px; color:#9AA0A8;">{{ r.when }}</div>
+            </div>
+          </div>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <!-- ===== FAQ ===== -->
+  <section id="faq" style="background:#fff; border-top:1px solid #EAE6DD;">
+    <div style="max-width:860px; margin:0 auto; padding:90px 28px;">
+      <div style="text-align:center; margin-bottom:44px;">
+        <div style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.18em; color:#D8232A; text-transform:uppercase; margin-bottom:14px;">Вопросы · Сұрақтар</div>
+        <h2 style="font-size:40px; font-weight:800; letter-spacing:-0.02em; margin:0; line-height:1.08;">Частые вопросы</h2>
+      </div>
+      <div style="display:flex; flex-direction:column; gap:12px;">
+        <sc-for list="{{ faqs }}" as="f" hint-placeholder-count="6">
+          <div style="border:1px solid #EAE6DD; border-radius:14px; overflow:hidden; background:#FBFAF7;">
+            <button onClick="{{ f.onToggle }}" style="width:100%; display:flex; align-items:center; justify-content:space-between; gap:16px; padding:20px 24px; background:transparent; border:none; cursor:pointer; text-align:left;">
+              <span style="font-size:16.5px; font-weight:700; color:#15171B;">{{ f.q }}</span>
+              <span style="font-size:24px; font-weight:400; color:#D8232A; flex:none; line-height:1;">{{ f.sign }}</span>
+            </button>
+            <sc-if value="{{ f.open }}" hint-placeholder-val="{{ false }}">
+              <div style="padding:0 24px 22px; color:#5A5E66; font-size:15px; line-height:1.6;">{{ f.a }}</div>
+            </sc-if>
+          </div>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== BOOKING + CONTACTS ===== -->
+  <section id="book" style="background:#101216; color:#fff;">
+    <div style="max-width:1200px; margin:0 auto; padding:90px 28px; display:grid; grid-template-columns:1fr 1fr; gap:56px;">
+      <div>
+        <div style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.18em; color:#F2C200; text-transform:uppercase; margin-bottom:14px;">Запись · Жазылу</div>
+        <h2 style="font-size:40px; font-weight:800; letter-spacing:-0.02em; margin:0 0 16px; line-height:1.08;">Запишитесь<br>на замену масла</h2>
+        <p style="color:#A8ACB4; font-size:15.5px; line-height:1.6; margin:0 0 30px; max-width:420px;">Оставьте заявку — перезвоним, подберём масло и предложим удобное время. Или напишите нам сразу в WhatsApp.</p>
+
+        <div style="display:flex; flex-direction:column; gap:16px;">
+          <a href="{{ telHref }}" style="display:flex; align-items:center; gap:16px; text-decoration:none; color:#fff; border:1px solid rgba(255,255,255,0.14); border-radius:14px; padding:18px 20px;">
+            <span style="width:42px; height:42px; border-radius:11px; background:#D8232A; display:flex; align-items:center; justify-content:center; font-weight:800; font-size:18px;">☎</span>
+            <span>
+              <span style="display:block; font-size:12px; color:#8A8E96; font-family:'JetBrains Mono',monospace;">ЕДИНЫЙ НОМЕР</span>
+              <span style="display:block; font-weight:700; font-size:18px; margin-top:2px;">+7 777 388 18 95</span>
+            </span>
+          </a>
+          <a href="{{ waHref }}" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:16px; text-decoration:none; color:#fff; border:1px solid rgba(255,255,255,0.14); border-radius:14px; padding:18px 20px;">
+            <span style="width:42px; height:42px; border-radius:11px; background:#6F913B; display:flex; align-items:center; justify-content:center; font-weight:800; font-size:16px;">WA</span>
+            <span>
+              <span style="display:block; font-size:12px; color:#8A8E96; font-family:'JetBrains Mono',monospace;">WHATSAPP</span>
+              <span style="display:block; font-weight:700; font-size:18px; margin-top:2px;">Написать в чат</span>
+            </span>
+          </a>
+          <div style="display:flex; align-items:center; gap:16px; border:1px solid rgba(255,255,255,0.14); border-radius:14px; padding:18px 20px;">
+            <span style="width:42px; height:42px; border-radius:11px; background:#1E2127; display:flex; align-items:center; justify-content:center; font-weight:800; font-size:16px; color:#F2C200;">⏱</span>
+            <span>
+              <span style="display:block; font-size:12px; color:#8A8E96; font-family:'JetBrains Mono',monospace;">РЕЖИМ РАБОТЫ</span>
+              <span style="display:block; font-weight:700; font-size:18px; margin-top:2px;">Пн–Вс · 08:30–19:00</span>
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div style="background:#fff; color:#15171B; border-radius:20px; padding:38px 34px;">
+        <sc-if value="{{ submitted }}" hint-placeholder-val="{{ false }}">
+          <div style="display:flex; flex-direction:column; align-items:flex-start; gap:16px; padding:30px 0;">
+            <span style="width:56px; height:56px; border-radius:50%; background:#6F913B; color:#fff; display:flex; align-items:center; justify-content:center; font-size:28px;">✓</span>
+            <h3 style="font-size:24px; font-weight:800; margin:0;">Заявка принята!</h3>
+            <p style="color:#6A6E76; font-size:15.5px; line-height:1.6; margin:0;">Мы перезвоним вам в ближайшее время в рабочие часы. Спасибо, что выбрали Arlan Motors.</p>
+            <a href="{{ waHref }}" target="_blank" rel="noopener" style="color:#D8232A; font-weight:700; text-decoration:none; font-size:15px;">Написать в WhatsApp прямо сейчас →</a>
+          </div>
+        </sc-if>
+        <sc-if value="{{ notSubmitted }}" hint-placeholder-val="{{ true }}">
+          <form onSubmit="{{ onSubmit }}">
+            <h3 style="font-size:22px; font-weight:800; margin:0 0 22px;">Оставить заявку</h3>
+            <div style="display:flex; flex-direction:column; gap:16px;">
+              <label style="display:flex; flex-direction:column; gap:7px;">
+                <span style="font-size:13px; font-weight:600; color:#5A5E66;">Ваше имя</span>
+                <input name="name" required placeholder="Как к вам обращаться" style="border:1px solid #E2DED4; border-radius:11px; padding:13px 15px; font-size:15px; background:#FBFAF7; outline:none;" style-focus="border-color:#15171B;">
+              </label>
+              <label style="display:flex; flex-direction:column; gap:7px;">
+                <span style="font-size:13px; font-weight:600; color:#5A5E66;">Телефон</span>
+                <input name="phone" required type="tel" placeholder="+7 ___ ___ __ __" style="border:1px solid #E2DED4; border-radius:11px; padding:13px 15px; font-size:15px; background:#FBFAF7; outline:none;" style-focus="border-color:#15171B;">
+              </label>
+              <label style="display:flex; flex-direction:column; gap:7px;">
+                <span style="font-size:13px; font-weight:600; color:#5A5E66;">Автомобиль</span>
+                <input name="car" placeholder="Марка, модель, год" style="border:1px solid #E2DED4; border-radius:11px; padding:13px 15px; font-size:15px; background:#FBFAF7; outline:none;" style-focus="border-color:#15171B;">
+              </label>
+              <label style="display:flex; flex-direction:column; gap:7px;">
+                <span style="font-size:13px; font-weight:600; color:#5A5E66;">Точка</span>
+                <select name="place" style="border:1px solid #E2DED4; border-radius:11px; padding:13px 15px; font-size:15px; background:#FBFAF7; outline:none;">
+                  <option>Талгар, ул. Кунаева, 202</option>
+                  <option>Талгар, ул. Кунаева, 226</option>
+                  <option>с. Байтерек, ул. Альмерек Абыз, 119</option>
+                </select>
+              </label>
+              <button type="submit" style="margin-top:6px; background:#D8232A; color:#fff; border:none; border-radius:12px; padding:16px; font-weight:700; font-size:16px; cursor:pointer;">Отправить заявку</button>
+              <p style="font-size:12px; color:#9AA0A8; text-align:center; margin:2px 0 0; line-height:1.5;">Нажимая кнопку, вы соглашаетесь на обработку персональных данных.</p>
+            </div>
+          </form>
+        </sc-if>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer style="background:#0B0D10; color:#fff;">
+    <div style="height:5px; background:repeating-linear-gradient(135deg,#F2C200 0 16px,#0B0D10 16px 32px);"></div>
+    <div style="max-width:1200px; margin:0 auto; padding:56px 28px 40px; display:grid; grid-template-columns:1.4fr 1fr 1fr; gap:40px;">
+      <div>
+        <div style="display:inline-flex; align-items:center; background:#fff; border-radius:12px; padding:10px 16px; margin-bottom:18px;">
+          <img src="images/logo-horizontal-balanced.png" alt="Arlan Motors" style="height:48px; width:auto; display:block;">
+        </div>
+        <p style="color:#888C94; font-size:14px; line-height:1.6; max-width:320px; margin:0;">Пункты замены масла и автомагазин. Оригинальные масла и фильтры для авто и мото в Талгаре.</p>
+      </div>
+      <div>
+        <div style="font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:0.14em; color:#6A6E76; text-transform:uppercase; margin-bottom:16px;">Адреса</div>
+        <div style="display:flex; flex-direction:column; gap:12px; font-size:14px; color:#C4C7CE;">
+          <span>Талгар, ул. Кунаева, 202</span>
+          <span>Талгар, ул. Кунаева, 226</span>
+          <span>с. Байтерек, ул. Альмерек Абыз, 119</span>
+        </div>
+      </div>
+      <div>
+        <div style="font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:0.14em; color:#6A6E76; text-transform:uppercase; margin-bottom:16px;">Контакты</div>
+        <div style="display:flex; flex-direction:column; gap:12px; font-size:14px;">
+          <a href="{{ telHref }}" style="color:#fff; text-decoration:none; font-weight:700;">+7 777 388 18 95</a>
+          <a href="{{ waHref }}" target="_blank" rel="noopener" style="color:#C4C7CE; text-decoration:none;">WhatsApp</a>
+          <a href="{{ igHref }}" target="_blank" rel="noopener" style="color:#C4C7CE; text-decoration:none;">Instagram</a>
+          <span style="color:#888C94;">Пн–Вс · 08:30–19:00</span>
+        </div>
+      </div>
+    </div>
+    <div style="border-top:1px solid #1A1D22;">
+      <div style="max-width:1200px; margin:0 auto; padding:20px 28px; display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;">
+        <span style="font-size:12.5px; color:#6A6E76;">© {{ year }} Arlan Motors. Все права защищены.</span>
+        <span style="font-size:12px; color:#5A5E66; font-family:'JetBrains Mono',monospace;">Доступная среда · доступный вход</span>
+      </div>
+    </div>
+  </footer>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  state = { openFaq: 0, submitted: false };
+
+  renderVals() {
+    const waHref = "https://api.whatsapp.com/send/?phone=77773881895&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%0A%0A%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%B7+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+2%D0%93%D0%98%D0%A1.%0A%0A&type=phone_number&app_absent=0";
+
+    const services = [
+      { no: "01", tag: "OIL", ru: "Замена моторного масла", kz: "Мотор майын ауыстыру", desc: "Подберём и заменим масло под ваш авто или мото — пока вы ждёте, около 20 минут." },
+      { no: "02", tag: "FLT", ru: "Масляный фильтр", kz: "Май сүзгісі", desc: "Замена масляного фильтра вместе с маслом. Только оригинальные расходники." },
+      { no: "03", tag: "AIR", ru: "Воздушный фильтр", kz: "Ауа сүзгісі", desc: "Проверка и замена воздушного фильтра двигателя для стабильной тяги." },
+      { no: "04", tag: "CAB", ru: "Салонный фильтр", kz: "Салон сүзгісі", desc: "Чистый воздух в салоне — замена салонного фильтра за пару минут." },
+      { no: "05", tag: "ATF", ru: "Масло в АКПП и вариаторе", kz: "АКПП / вариатор майы", desc: "Замена жидкости в автоматических коробках и вариаторах." },
+      { no: "06", tag: "CHK", ru: "Бесплатная диагностика жидкостей", kz: "Тегін диагностика", desc: "Бесплатная проверка состояния техжидкостей, фильтров, АКПП и вариаторов." },
+    ];
+
+    const advantages = [
+      { stat: "≈20 мин", title: "Быстро", desc: "Замена пока вы ждёте, без записи на завтра." },
+      { stat: "100%", title: "Оригинал", desc: "Только сертифицированные масла и фильтры." },
+      { stat: "3 поста", title: "Без очередей", desc: "Несколько машин обслуживаем одновременно." },
+      { stat: "0 ₸", title: "Диагностика", desc: "Бесплатная проверка техжидкостей и фильтров." },
+    ];
+
+    const brands = ["SHELL HELIX", "CASTROL", "MOBIL 1", "TOTAL", "LIQUI MOLY", "ZIC", "ELF", "MOTUL", "MANNOL", "RAVENOL", "IDEMITSU"];
+
+    const prices = [
+      { ru: "Замена моторного масла (работа)", kz: "Майды ауыстыру жұмысы", price: "по запросу", color: "#15171B" },
+      { ru: "Замена масляного фильтра", kz: "Май сүзгісін ауыстыру", price: "по запросу", color: "#15171B" },
+      { ru: "Замена воздушного фильтра", kz: "Ауа сүзгісін ауыстыру", price: "по запросу", color: "#15171B" },
+      { ru: "Замена салонного фильтра", kz: "Салон сүзгісін ауыстыру", price: "по запросу", color: "#15171B" },
+      { ru: "Замена жидкости АКПП / вариатор", kz: "АКПП / вариатор майы", price: "по запросу", color: "#15171B" },
+      { ru: "Диагностика техжидкостей и фильтров", kz: "Сұйықтық диагностикасы", price: "Бесплатно", color: "#6F913B" },
+    ];
+
+    const payments = ["Оплата картой", "Наличный расчёт", "Оплата через банк", "Перевод с карты", "Оплата по QR-коду"];
+
+    const locations = [
+      { no: "Точка 01", city: "Талгар", addr: "ул. Кунаева, 202", map: "https://2gis.kz/search/Arlan%20Motors%20Кунаева%20202" },
+      { no: "Точка 02", city: "Талгар", addr: "ул. Кунаева, 226", map: "https://2gis.kz/search/Arlan%20Motors%20Кунаева%20226" },
+      { no: "Точка 03", city: "с. Байтерек", addr: "ул. Альмерек Абыз, 119", map: "https://2gis.kz/search/Arlan%20Motors%20Альмерек%20Абыз%20119" },
+    ];
+
+    const reviews = [
+      { ini: "АБ", name: "Арман Б.", when: "Замена масла", text: "Заехал без записи — за 20 минут поменяли масло и фильтр. Сразу показали уровень всех жидкостей. Цены адекватные, ребята вежливые." },
+      { ini: "СК", name: "Светлана К.", when: "Постоянный клиент", text: "Обслуживаюсь здесь уже год. Всегда оригинальное масло в наличии, подсказывают что лучше для моей машины. Чисто и аккуратно." },
+      { ini: "Д", name: "Данияр", when: "Замена + фильтры", file: "", text: "Поменяли масло, воздушный и салонный фильтры за один заезд. Бесплатно проверили вариатор. Рекомендую, буду ездить только сюда." },
+    ];
+
+    const faqList = [
+      { q: "Сколько времени занимает замена масла?", a: "В среднем около 20 минут. Работают несколько постов, поэтому очередей почти не бывает." },
+      { q: "Нужно ли записываться заранее?", a: "Можно приехать без записи. Но если оставите заявку или напишете в WhatsApp — подберём масло заранее и примем вас быстрее." },
+      { q: "Вы используете оригинальные масла?", a: "Да. В наличии оригинальные масла Shell Helix, Castrol, Mobil, Total и других брендов для авто и мото." },
+      { q: "Меняете ли масло в АКПП и вариаторе?", a: "Да, выполняем замену жидкости в автоматических коробках передач и вариаторах." },
+      { q: "Что входит в бесплатную диагностику?", a: "Бесплатно проверяем уровень и состояние техжидкостей, фильтров, а также АКПП и вариаторов." },
+      { q: "Какие способы оплаты доступны?", a: "Принимаем оплату картой, наличными, по QR-коду, переводом с карты и через банк." },
+      { q: "Удобно ли клиентам с инвалидностью?", a: "Да, обеспечен доступный вход для людей с инвалидностью — доступная среда." },
+    ];
+
+    const faqs = faqList.map((f, i) => ({
+      q: f.q,
+      a: f.a,
+      open: this.state.openFaq === i,
+      sign: this.state.openFaq === i ? "–" : "+",
+      onToggle: () => this.setState(s => ({ openFaq: s.openFaq === i ? -1 : i })),
+    }));
+
+    return {
+      telHref: "tel:+77773881895",
+      waHref,
+      igHref: "https://www.instagram.com/arlan_motors_talgar",
+      services, advantages, brands, prices, payments, locations, reviews, faqs,
+      submitted: this.state.submitted,
+      notSubmitted: !this.state.submitted,
+      year: new Date().getFullYear(),
+      onSubmit: (e) => { e.preventDefault(); this.setState({ submitted: true }); },
+    };
+  }
+}
+</script>
+</body>
+</html>

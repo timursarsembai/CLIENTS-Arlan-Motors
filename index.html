@@ -1,0 +1,1954 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arlan Motors — Замена масла в Талгаре</title>
+<meta name="description" content="Пункты замены масла в Талгаре. Оригинальные масла Shell Helix, Castrol, Mobil и других брендов. Замена за 20 минут, 3 точки.">
+<link rel="icon" type="image/x-icon" href="project/favicon_io/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="project/favicon_io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="project/favicon_io/favicon-16x16.png">
+<link rel="apple-touch-icon" href="project/favicon_io/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; font-family: 'Manrope', system-ui, sans-serif; background: #FBFAF7; color: #15171B; -webkit-font-smoothing: antialiased; overflow-x: hidden; }
+  ::selection { background: #D8232A; color: #fff; }
+  input, select, textarea, button { font-family: inherit; }
+  @keyframes amfade { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+  .hazard { height: 5px; background: repeating-linear-gradient(135deg, #F2C200 0 16px, #15171B 16px 32px); }
+  .hazard-dark { height: 5px; background: repeating-linear-gradient(135deg, #F2C200 0 16px, #101216 16px 32px); }
+  .hazard-footer { height: 5px; background: repeating-linear-gradient(135deg, #F2C200 0 16px, #0B0D10 16px 32px); }
+
+  /* HEADER */
+  header {
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(251,250,247,0.88); backdrop-filter: blur(12px);
+    border-bottom: 1px solid #E9E5DC;
+  }
+  .header-inner {
+    max-width: 1200px; margin: 0 auto; padding: 0 28px; height: 74px;
+    display: flex; align-items: center; justify-content: space-between; gap: 24px;
+  }
+  .logo { display: flex; align-items: center; text-decoration: none; }
+  .logo img { height: 56px; width: auto; display: block; }
+  .header-nav { display: flex; align-items: center; gap: 30px; }
+  .header-nav a { text-decoration: none; color: #3C4048; font-weight: 600; font-size: 14.5px; transition: color .2s; }
+  .header-nav a:hover { color: #D8232A; }
+  /* Мобильный оверлей — скрыт на десктопе */
+  #mainNav { display: none; }
+  .header-cta {
+    display: inline-flex; align-items: center; gap: 9px;
+    background: #15171B; color: #fff; text-decoration: none;
+    padding: 11px 18px; border-radius: 10px; font-weight: 700; font-size: 14px;
+    white-space: nowrap;
+  }
+  .dot-green { width: 7px; height: 7px; border-radius: 50%; background: #6F913B; flex: none; }
+
+  /* HERO */
+  .hero {
+    position: relative; background: #101216; color: #fff; overflow: hidden;
+  }
+  .hero-bg {
+    position: absolute; inset: 0;
+    background-image: url('project/​Улица Кунаева, 226/dee459f8-87d2-4c2b-a6c3-90eb0efb62a8.jpg');
+    background-size: cover; background-position: center; opacity: 0.5;
+  }
+  .hero-overlay {
+    position: absolute; inset: 0;
+    background: linear-gradient(100deg, #101216 30%, rgba(16,18,22,0.72) 60%, rgba(16,18,22,0.35) 100%);
+  }
+  .hero-inner {
+    position: relative; max-width: 1200px; margin: 0 auto;
+    padding: 96px 28px 104px;
+    display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 48px; align-items: center;
+  }
+  .hero-left { animation: amfade 0.7s ease both; }
+  .hero-label {
+    display: inline-flex; align-items: center; gap: 10px;
+    font-family: 'JetBrains Mono', monospace; font-size: 12px;
+    letter-spacing: 0.16em; color: #F2C200; text-transform: uppercase; margin-bottom: 26px;
+  }
+  .hero-label-line { width: 26px; height: 2px; background: #F2C200; }
+  .hero h1 {
+    font-size: 60px; line-height: 1.04; font-weight: 800;
+    letter-spacing: -0.02em; margin: 0 0 22px;
+  }
+  .hero h1 .red { color: #FF3B3B; }
+  .hero-sub { font-size: 18px; line-height: 1.55; color: #C4C7CE; max-width: 520px; margin: 0 0 14px; }
+  .hero-kz { font-family: 'JetBrains Mono', monospace; font-size: 13px; color: #8A8E96; letter-spacing: 0.02em; margin: 0 0 34px; }
+  .hero-btns { display: flex; gap: 14px; flex-wrap: wrap; }
+  .btn-primary {
+    display: inline-flex; align-items: center; gap: 10px;
+    background: #D8232A; color: #fff; text-decoration: none;
+    padding: 16px 26px; border-radius: 12px; font-weight: 700; font-size: 16px;
+    box-shadow: 0 12px 30px -10px rgba(216,35,42,0.6); transition: background .2s;
+  }
+  .btn-primary:hover { background: #c01e25; }
+  .btn-ghost {
+    display: inline-flex; align-items: center; gap: 10px;
+    background: transparent; color: #fff; text-decoration: none;
+    padding: 16px 24px; border-radius: 12px; font-weight: 700; font-size: 16px;
+    border: 1.5px solid rgba(255,255,255,0.28); transition: border-color .2s;
+  }
+  .btn-ghost:hover { border-color: rgba(255,255,255,0.5); }
+  .hero-stats { display: flex; align-items: center; gap: 28px; margin-top: 40px; flex-wrap: wrap; }
+  .stat { display: flex; flex-direction: column; gap: 3px; }
+  .stat-num { font-size: 22px; font-weight: 800; }
+  .stat-label { font-size: 12.5px; color: #8A8E96; }
+  .stat-div { width: 1px; height: 34px; background: rgba(255,255,255,0.14); }
+  .hero-right { animation: amfade 0.9s ease both; }
+  .hero-card {
+    position: relative; border-radius: 18px; overflow: hidden;
+    border: 1px solid rgba(255,255,255,0.12); box-shadow: 0 40px 80px -30px rgba(0,0,0,0.7);
+  }
+  .hero-card img { width: 100%; height: 440px; object-fit: cover; display: block; }
+  .hero-card-label {
+    position: absolute; left: 0; bottom: 0; width: 100%;
+    padding: 18px 20px; background: linear-gradient(transparent, rgba(16,18,22,0.92));
+  }
+  .hero-card-label span {
+    font-family: 'JetBrains Mono', monospace; font-size: 11px;
+    letter-spacing: 0.12em; color: #F2C200;
+  }
+
+  /* SECTIONS */
+  .section-label {
+    font-family: 'JetBrains Mono', monospace; font-size: 12px;
+    letter-spacing: 0.18em; color: #D8232A; text-transform: uppercase; margin-bottom: 14px;
+  }
+  .section-label-yellow { color: #F2C200; }
+  .section-h2 { font-size: 40px; font-weight: 800; letter-spacing: -0.02em; margin: 0; line-height: 1.08; }
+
+  /* SERVICES */
+  #services { max-width: 1200px; margin: 0 auto; padding: 96px 28px 40px; }
+  .services-head {
+    display: flex; align-items: flex-end; justify-content: space-between;
+    gap: 24px; margin-bottom: 48px; flex-wrap: wrap;
+  }
+  .services-head h2 { font-size: 42px; font-weight: 800; letter-spacing: -0.02em; margin: 0; line-height: 1.08; }
+  .services-desc { max-width: 340px; color: #6A6E76; font-size: 15.5px; line-height: 1.6; margin: 0; }
+  .services-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+  .service-card {
+    background: #fff; border: 1px solid #EAE6DD; border-radius: 16px;
+    padding: 30px 26px; display: flex; flex-direction: column; gap: 14px; min-height: 200px;
+    transition: border-color .2s, box-shadow .2s;
+  }
+  .service-card:hover { border-color: #15171B; box-shadow: 0 18px 40px -24px rgba(0,0,0,0.25); }
+  .service-top { display: flex; align-items: center; justify-content: space-between; }
+  .service-no { font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 600; color: #D8232A; }
+  .service-tag {
+    width: 30px; height: 30px; border-radius: 8px; background: #F6F1E8;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'JetBrains Mono', monospace; font-size: 12px; color: #6F913B; font-weight: 600;
+  }
+  .service-img { aspect-ratio: 1 / 1; border-radius: 10px; overflow: hidden; width: 70%; }
+  .service-img img { width: 100%; height: 100%; object-fit: contain; display: block; transition: transform .35s ease; padding: 4px; box-sizing: border-box; }
+  .service-card:hover .service-img img { transform: scale(1.04); }
+  .service-card h3 { font-size: 20px; font-weight: 700; margin: 6px 0 0; letter-spacing: -0.01em; }
+  .service-kz { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; color: #9AA0A8; letter-spacing: 0.04em; }
+  .service-card p { color: #6A6E76; font-size: 14.5px; line-height: 1.55; margin: auto 0 0; }
+
+  /* ADVANTAGES */
+  .adv-section { max-width: 1200px; margin: 0 auto; padding: 56px 28px 96px; }
+  .adv-box {
+    background: #15171B; border-radius: 24px; padding: 54px 48px;
+    color: #fff; position: relative; overflow: hidden;
+  }
+  .adv-circle {
+    position: absolute; right: -40px; top: -40px;
+    width: 240px; height: 240px;
+    border: 2px solid rgba(111,145,59,0.25); border-radius: 50%;
+  }
+  .adv-head { position: relative; margin-bottom: 42px; }
+  .adv-head h2 { font-size: 36px; font-weight: 800; letter-spacing: -0.02em; margin: 0; }
+  .adv-grid { position: relative; display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+  .adv-item { border-left: 2px solid #D8232A; padding: 6px 0 6px 18px; }
+  .adv-stat { font-size: 34px; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 8px; }
+  .adv-title { font-size: 15px; font-weight: 600; color: #EDEFF2; margin-bottom: 5px; }
+  .adv-desc { font-size: 13px; color: #9296A0; line-height: 1.5; }
+
+  /* BRANDS */
+  #brands { background: #fff; border-top: 1px solid #EAE6DD; border-bottom: 1px solid #EAE6DD; }
+  .brands-inner {
+    max-width: 1200px; margin: 0 auto; padding: 90px 28px;
+    display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 56px; align-items: center;
+  }
+  .brands-left h2 { font-size: 38px; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 18px; line-height: 1.1; }
+  .brands-left p { color: #6A6E76; font-size: 15.5px; line-height: 1.6; margin: 0 0 26px; }
+  .brands-img { border-radius: 16px; overflow: hidden; border: 1px solid #EAE6DD; }
+  .brands-img img { width: 100%; height: 260px; object-fit: cover; display: block; }
+  .brands-list { display: flex; flex-wrap: wrap; gap: 12px; align-content: center; }
+  .brand-chip {
+    font-family: 'JetBrains Mono', monospace; font-size: 14px; font-weight: 500;
+    letter-spacing: 0.06em; color: #2A2D33;
+    border: 1px solid #E2DED4; background: #FBFAF7;
+    padding: 14px 20px; border-radius: 10px;
+    transition: border-color .2s, background .2s;
+  }
+  .brand-chip:hover { border-color: #15171B; background: #fff; }
+
+  /* PRICES */
+  #prices { max-width: 1200px; margin: 0 auto; padding: 96px 28px; }
+  .prices-grid { display: grid; grid-template-columns: 1fr 0.9fr; gap: 48px; align-items: start; }
+  .prices-left h2 { font-size: 40px; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 30px; line-height: 1.08; }
+  .prices-table { border: 1px solid #EAE6DD; border-radius: 16px; overflow: hidden; background: #fff; }
+  .price-row {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 16px; padding: 18px 22px; border-bottom: 1px solid #F0ECE3;
+  }
+  .price-name { font-weight: 600; font-size: 15.5px; }
+  .price-kz { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #9AA0A8; margin-top: 3px; letter-spacing: 0.04em; }
+  .price-val { font-weight: 700; font-size: 15px; white-space: nowrap; }
+  .prices-note { padding: 16px 22px; font-size: 13px; color: #9AA0A8; background: #FBFAF7; }
+  .payments-box {
+    background: #15171B; color: #fff; border-radius: 20px;
+    padding: 40px 36px; position: relative; overflow: hidden;
+  }
+  .payments-circle {
+    position: absolute; right: -30px; bottom: -30px;
+    width: 160px; height: 160px;
+    border: 2px solid rgba(216,35,42,0.3); border-radius: 50%;
+  }
+  .payments-box h3 { font-size: 22px; font-weight: 800; margin: 0 0 6px; }
+  .payments-kz { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #F2C200; letter-spacing: 0.1em; margin-bottom: 26px; }
+  .payments-list { display: flex; flex-direction: column; gap: 14px; }
+  .payment-item { display: flex; align-items: center; gap: 12px; }
+  .payment-dot { width: 8px; height: 8px; border-radius: 2px; background: #6F913B; flex: none; }
+  .payment-item span:last-child { font-size: 15px; color: #E7E9EC; }
+  .payments-cta {
+    display: inline-flex; margin-top: 30px;
+    background: #D8232A; color: #fff; text-decoration: none;
+    padding: 14px 22px; border-radius: 11px; font-weight: 700; font-size: 15px;
+    transition: background .2s;
+  }
+  .payments-cta:hover { background: #c01e25; }
+
+  /* PLACES */
+  #places { background: #fff; border-top: 1px solid #EAE6DD; }
+  .places-inner { max-width: 1200px; margin: 0 auto; padding: 90px 28px; }
+  .places-head { margin-bottom: 44px; }
+  .places-list { display: flex; flex-direction: column; gap: 24px; }
+
+  .place-block {
+    border: 1px solid #EAE6DD; border-radius: 20px; overflow: hidden;
+    background: #FBFAF7; display: grid; grid-template-columns: 1.1fr 0.9fr;
+    transition: box-shadow .2s;
+  }
+  .place-block:hover { box-shadow: 0 16px 48px -20px rgba(0,0,0,0.13); }
+
+  /* gallery side */
+  .place-gallery-col { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; padding: 20px; background: #F2EFE7; }
+  .place-gallery-main {
+    aspect-ratio: 1/1; border-radius: 12px; overflow: hidden; cursor: pointer; position: relative;
+  }
+  .place-gallery-main img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .3s; }
+  .place-gallery-main:hover img { transform: scale(1.03); }
+  .place-gallery-grid { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 6px; }
+  .place-gallery-thumb { aspect-ratio: 1/1; border-radius: 10px; overflow: hidden; cursor: pointer; position: relative; }
+  .place-gallery-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .3s; }
+  .place-gallery-thumb:hover img { transform: scale(1.05); }
+  .place-gallery-more {
+    position: absolute; inset: 0; background: rgba(21,23,27,0.62);
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-size: 22px; font-weight: 800; border-radius: 10px;
+    cursor: pointer; backdrop-filter: blur(2px);
+  }
+  .place-num-badge {
+    position: absolute; top: 12px; left: 12px; z-index: 2;
+    background: #15171B; color: #fff;
+    font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600;
+    padding: 5px 10px; border-radius: 7px;
+  }
+
+  /* info side */
+  .place-info-col { padding: 32px 36px; display: flex; flex-direction: column; gap: 14px; justify-content: center; }
+  .place-info-col h3 { font-size: 22px; font-weight: 800; margin: 0; }
+  .place-addr { color: #3C4048; font-size: 16px; font-weight: 500; }
+  .place-hours { display: flex; align-items: center; gap: 8px; color: #6A6E76; font-size: 14px; }
+  .place-hours-dot { width: 6px; height: 6px; border-radius: 50%; background: #6F913B; flex: none; }
+  .place-map {
+    margin-top: 8px; display: inline-flex; align-items: center; gap: 8px;
+    color: #D8232A; font-weight: 700; font-size: 14px; text-decoration: none;
+    transition: color .2s;
+  }
+  .place-map:hover { color: #b01d23; }
+
+  /* lightbox */
+  .lightbox { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.92); z-index: 1000; align-items: center; justify-content: center; flex-direction: column; gap: 16px; }
+  .lightbox.active { display: flex; }
+  .lightbox-img-wrap { position: relative; }
+  .lightbox img { max-width: 90vw; max-height: 80vh; border-radius: 12px; object-fit: contain; display: block; }
+  .lightbox-close { position: absolute; top: 20px; right: 28px; color: #fff; font-size: 36px; cursor: pointer; line-height: 1; z-index: 10; }
+  .lightbox-nav { display: flex; align-items: center; gap: 20px; }
+  .lightbox-btn { background: rgba(255,255,255,0.15); border: none; color: #fff; width: 44px; height: 44px; border-radius: 50%; font-size: 20px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: background .2s; }
+  .lightbox-btn:hover { background: rgba(255,255,255,0.3); }
+  .lightbox-counter { color: #9AA0A8; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+
+  @media (max-width: 768px) {
+    .place-block { grid-template-columns: 1fr; }
+    .place-gallery-grid { width: 120px; }
+  }
+
+  /* REVIEWS */
+  .reviews-section { max-width: 1200px; margin: 0 auto; padding: 96px 28px; }
+  .reviews-head { margin-bottom: 44px; }
+  .reviews-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .review-card {
+    background: #fff; border: 1px solid #EAE6DD; border-radius: 18px;
+    padding: 30px 28px; display: flex; flex-direction: column; gap: 16px;
+  }
+  /* Review tags */
+  .review-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 36px; }
+  .review-tag {
+    display: inline-flex; align-items: center; gap: 5px;
+    padding: 7px 14px; border-radius: 100px;
+    background: #F5F2EA; border: 1px solid #E8E3D8;
+    font-size: 13.5px; font-weight: 600; color: #2A2D33;
+    white-space: nowrap; transition: background .2s, border-color .2s;
+  }
+  .review-tag::before { content: '✓'; color: #6F913B; font-size: 12px; font-weight: 800; }
+  .review-stars { color: #F2C200; font-size: 16px; letter-spacing: 2px; }
+  .review-card p { font-size: 15.5px; line-height: 1.6; color: #2A2D33; margin: 0; flex: 1; }
+  .review-footer { display: flex; align-items: center; gap: 12px; padding-top: 6px; border-top: 1px solid #F0ECE3; }
+  .review-avatar {
+    width: 38px; height: 38px; border-radius: 50%;
+    background: #15171B; color: #fff;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 15px; flex: none;
+  }
+  .review-name { font-weight: 700; font-size: 14.5px; }
+  .review-when { font-size: 12.5px; color: #9AA0A8; }
+
+  /* FAQ */
+  #faq { background: #fff; border-top: 1px solid #EAE6DD; }
+  .faq-inner { max-width: 860px; margin: 0 auto; padding: 90px 28px; }
+  .faq-head { text-align: center; margin-bottom: 44px; }
+  .faq-list { display: flex; flex-direction: column; gap: 12px; }
+  .faq-item { border: 1px solid #EAE6DD; border-radius: 14px; overflow: hidden; background: #FBFAF7; }
+  .faq-btn {
+    width: 100%; display: flex; align-items: center; justify-content: space-between;
+    gap: 16px; padding: 20px 24px; background: transparent; border: none;
+    cursor: pointer; text-align: left;
+  }
+  .faq-q { font-size: 16.5px; font-weight: 700; color: #15171B; }
+  .faq-sign { font-size: 24px; font-weight: 400; color: #D8232A; flex: none; line-height: 1; transition: transform .2s; }
+  .faq-answer { padding: 0 24px 22px; color: #5A5E66; font-size: 15px; line-height: 1.6; display: none; }
+  .faq-item.open .faq-answer { display: block; }
+
+  /* BOOKING */
+  #book { background: #101216; color: #fff; }
+  .book-inner {
+    max-width: 1200px; margin: 0 auto; padding: 90px 28px;
+    display: grid; grid-template-columns: 1fr 1fr; gap: 56px;
+  }
+  .book-left h2 { font-size: 40px; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 16px; line-height: 1.08; }
+  .book-left p { color: #A8ACB4; font-size: 15.5px; line-height: 1.6; margin: 0 0 30px; max-width: 420px; }
+  .contact-links { display: flex; flex-direction: column; gap: 16px; }
+  .contact-link {
+    display: flex; align-items: center; gap: 16px; text-decoration: none; color: #fff;
+    border: 1px solid rgba(255,255,255,0.14); border-radius: 14px; padding: 18px 20px;
+    transition: border-color .2s;
+  }
+  .contact-link:hover { border-color: rgba(255,255,255,0.3); }
+  .contact-icon {
+    width: 42px; height: 42px; border-radius: 11px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 800; font-size: 18px; flex: none;
+  }
+  .contact-icon-red { background: #D8232A; }
+  .contact-icon-green { background: #6F913B; font-size: 16px; }
+  .contact-icon-dark { background: #1E2127; font-size: 16px; color: #F2C200; }
+  .contact-sublabel { display: block; font-size: 12px; color: #8A8E96; font-family: 'JetBrains Mono', monospace; }
+  .contact-val { display: block; font-weight: 700; font-size: 18px; margin-top: 2px; }
+
+  /* FORM */
+  .book-form-wrap { background: #fff; color: #15171B; border-radius: 20px; padding: 38px 34px; }
+  .book-form-wrap h3 { font-size: 22px; font-weight: 800; margin: 0 0 22px; }
+  .form-fields { display: flex; flex-direction: column; gap: 16px; }
+  .form-label { display: flex; flex-direction: column; gap: 7px; }
+  .form-label-text { font-size: 13px; font-weight: 600; color: #5A5E66; }
+  .form-input, .form-select {
+    border: 1px solid #E2DED4; border-radius: 11px; padding: 13px 15px;
+    font-size: 15px; background: #FBFAF7; outline: none; width: 100%;
+    transition: border-color .2s;
+  }
+  .form-input:focus, .form-select:focus { border-color: #15171B; }
+  /* Autocomplete dropdown */
+  .ac-wrap { position: relative; }
+  .ac-clear {
+    position: absolute; right: 12px; top: 50%; transform: translateY(-50%);
+    display: none; align-items: center; justify-content: center;
+    width: 20px; height: 20px; border: none; background: none;
+    cursor: pointer; color: #9A9DA6; font-size: 18px; line-height: 1; padding: 0;
+    border-radius: 50%; transition: color .15s, background .15s;
+  }
+  .ac-clear:hover { color: #D8232A; background: #F5F2EA; }
+  .ac-clear.visible { display: flex; }
+  .ac-dropdown {
+    position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 200;
+    background: #fff; border: 1px solid #E2DED4; border-radius: 11px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.10); max-height: 220px; overflow-y: auto;
+    display: none;
+  }
+  .ac-dropdown.open { display: block; }
+  .ac-item {
+    padding: 11px 15px; font-size: 15px; cursor: pointer; transition: background .15s;
+  }
+  .ac-item:hover, .ac-item.focused { background: #F5F3EE; }
+  .ac-item mark { background: none; color: #D8232A; font-weight: 700; }
+  /* Map link */
+  .place-map-link {
+    display: none; font-size: 13px; font-weight: 600; color: #D8232A;
+    text-decoration: none; margin-top: 2px;
+  }
+  .place-map-link:hover { text-decoration: underline; }
+  .place-map-link.visible { display: inline-block; }
+  .form-submit {
+    margin-top: 6px; background: #D8232A; color: #fff; border: none;
+    border-radius: 12px; padding: 16px; font-weight: 700; font-size: 16px;
+    cursor: pointer; width: 100%; transition: background .2s;
+  }
+  .form-submit:hover { background: #c01e25; }
+  .form-agree { font-size: 12px; color: #9AA0A8; text-align: center; margin: 2px 0 0; line-height: 1.5; }
+  .form-success { display: none; flex-direction: column; align-items: flex-start; gap: 16px; padding: 30px 0; }
+  .form-success.visible { display: flex; }
+  .form-success-icon {
+    width: 56px; height: 56px; border-radius: 50%; background: #6F913B; color: #fff;
+    display: flex; align-items: center; justify-content: center; font-size: 28px;
+  }
+  .form-success h3 { font-size: 24px; font-weight: 800; margin: 0; }
+  .form-success p { color: #6A6E76; font-size: 15.5px; line-height: 1.6; margin: 0; }
+  .form-success a { color: #D8232A; font-weight: 700; text-decoration: none; font-size: 15px; }
+
+  /* FOOTER */
+  footer { background: #0B0D10; color: #fff; }
+  .footer-inner {
+    max-width: 1200px; margin: 0 auto; padding: 56px 28px 40px;
+    display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 40px;
+  }
+  .footer-logo-wrap { display: inline-flex; background: #fff; border-radius: 12px; padding: 10px 16px; margin-bottom: 18px; }
+  .footer-logo-wrap img { height: 48px; width: auto; display: block; }
+  .footer-col-1 p { color: #888C94; font-size: 14px; line-height: 1.6; max-width: 320px; margin: 0; }
+  .footer-col-label { font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.14em; color: #6A6E76; text-transform: uppercase; margin-bottom: 16px; }
+  .footer-links { display: flex; flex-direction: column; gap: 12px; font-size: 14px; color: #C4C7CE; }
+  .footer-links a { color: inherit; text-decoration: none; transition: color .2s; }
+  .footer-links a:hover { color: #fff; }
+  .footer-links a.white { color: #fff; font-weight: 700; }
+  .footer-bottom {
+    border-top: 1px solid #1A1D22;
+    max-width: 1200px; margin: 0 auto; padding: 20px 28px;
+    display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  }
+  .footer-copy { font-size: 12.5px; color: #6A6E76; }
+  .footer-a11y { font-size: 12px; color: #5A5E66; font-family: 'JetBrains Mono', monospace; }
+
+  /* MOBILE */
+  /* Переключатель языков */
+  .lang-switcher { display: flex; gap: 2px; background: #F0EDE7; border-radius: 8px; padding: 3px; }
+  .lang-btn { background: none; border: none; cursor: pointer; font-size: 12px; font-weight: 700; color: #6A6E76; padding: 5px 10px; border-radius: 6px; transition: all .2s; letter-spacing: .02em; font-family: inherit; }
+  .lang-btn.active { background: #fff; color: #15171B; box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+
+  .mobile-menu-btn { display: none; background: none; border: none; cursor: pointer; padding: 6px; z-index: 1001; }
+  .mobile-menu-btn span {
+    display: block; width: 22px; height: 2px; background: #15171B;
+    margin: 5px 0; border-radius: 2px; transition: transform .25s, opacity .25s;
+  }
+  .mobile-menu-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .mobile-menu-btn.open span:nth-child(2) { opacity: 0; }
+  .mobile-menu-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+  /* Mobile nav overlay styles */
+  .mobile-nav-close {
+    background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); border-radius: 50%;
+    width: 44px; height: 44px; font-size: 18px; color: #fff;
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+    transition: background .2s; flex: none;
+  }
+  .mobile-nav-close:hover { background: rgba(255,255,255,0.15); }
+
+  .mobile-nav-header {
+    display: flex; align-items: center; justify-content: space-between;
+    width: 100%; padding: 0 24px;
+  }
+  .mobile-nav-header-lang .lang-btn { color: rgb(93 93 93 / 65%); }
+  .mobile-nav-header-lang .lang-btn.active { color: #15171B; background: #fff; }
+
+  .mobile-nav-links { display: flex; flex-direction: column; width: 100%; padding: 0 24px; gap: 0; }
+  .mobile-nav-links a {
+    text-decoration: none; color: #fff; font-size: 26px; font-weight: 800;
+    padding: 18px 0; border-bottom: 1px solid rgba(255,255,255,0.08);
+    display: flex; align-items: center; justify-content: space-between;
+    transition: color .2s;
+    opacity: 0; transform: translateY(16px);
+  }
+  .mobile-nav-links a:last-child { border-bottom: none; }
+  .mobile-nav-links a:hover { color: #D8232A; }
+  .mobile-nav-links a .nav-num {
+    font-family: 'JetBrains Mono', monospace; font-size: 12px;
+    font-weight: 600; color: #D8232A; letter-spacing: 0.04em; line-height: 1;
+  }
+  .mobile-nav-links a .nav-arrow { font-size: 20px; color: rgba(255,255,255,0.25); transition: color .2s, transform .2s; }
+  .mobile-nav-links a:hover .nav-arrow { color: #D8232A; transform: translateX(4px); }
+
+  #mainNav.open .mobile-nav-links a {
+    animation: navLinkIn .35s ease forwards;
+  }
+  #mainNav.open .mobile-nav-links a:nth-child(1) { animation-delay: .08s; }
+  #mainNav.open .mobile-nav-links a:nth-child(2) { animation-delay: .14s; }
+  #mainNav.open .mobile-nav-links a:nth-child(3) { animation-delay: .20s; }
+  #mainNav.open .mobile-nav-links a:nth-child(4) { animation-delay: .26s; }
+  #mainNav.open .mobile-nav-links a:nth-child(5) { animation-delay: .32s; }
+  @keyframes navLinkIn {
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .mobile-nav-footer { display: flex; flex-direction: column; align-items: stretch; gap: 12px; width: 100%; padding: 0 24px; }
+  .mobile-nav-phone {
+    display: inline-flex; align-items: center; justify-content: center; gap: 9px;
+    background: #D8232A; color: #fff; text-decoration: none;
+    padding: 16px 24px; border-radius: 14px; font-weight: 700; font-size: 17px;
+    white-space: nowrap; transition: background .2s;
+  }
+  .mobile-nav-phone:hover { background: #bf1e24; }
+  .mobile-nav-lang { background: rgba(255,255,255,0.08); align-self: center; }
+  .mobile-nav-lang .lang-btn { color: rgba(255,255,255,0.5); }
+  .mobile-nav-lang .lang-btn.active { background: #fff; color: #15171B; }
+
+  @media (max-width: 1024px) {
+    .hero h1 { font-size: 48px; }
+    .adv-grid { grid-template-columns: repeat(2, 1fr); }
+    .services-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (max-width: 768px) {
+    .header-nav { display: none; }
+    .header-inner .lang-switcher { display: none; }
+    #mainNav {
+      display: none; opacity: 0;
+      position: fixed; top: 0; left: 0; right: 0; bottom: 0; z-index: 1000;
+      background-color: #101216;
+      background-image: url('project/​Улица Кунаева, 226/dee459f8-87d2-4c2b-a6c3-90eb0efb62a8.jpg');
+      background-size: cover; background-position: center;
+      flex-direction: column; align-items: center;
+      justify-content: space-between; padding: 28px 0 40px;
+      transition: opacity .25s ease;
+    }
+    #mainNav::before {
+      content: ''; position: absolute; inset: 0;
+      background: linear-gradient(100deg, rgba(16,18,22,0.98) 29%, rgba(16,18,22,0.92) 70%, rgba(16,18,22,0.75) 100%);
+      z-index: 0;
+    }
+    #mainNav > * { position: relative; z-index: 1; }
+    #mainNav.open { display: flex; }
+    #mainNav.open { opacity: 1; }
+    .mobile-menu-btn { display: block; }
+    .hero-inner { grid-template-columns: 1fr; }
+    .hero-right { display: none; }
+    .hero h1 { font-size: 38px; }
+    .hero-stats { gap: 16px; margin-top: 28px; flex-wrap: nowrap; }
+    .stat-num { font-size: 18px; }
+    .stat-label { font-size: 11px; }
+    .services-head h2 { font-size: 30px; }
+    .services-grid { grid-template-columns: repeat(2, 1fr); }
+    .service-img { width: 50%; }
+    .adv-box { padding: 36px 28px; }
+    .adv-grid { grid-template-columns: repeat(2, 1fr); }
+    .brands-inner { grid-template-columns: 1fr; }
+    .prices-grid { grid-template-columns: 1fr; }
+    .places-grid { grid-template-columns: 1fr; }
+    .reviews-grid { grid-template-columns: 1fr; }
+    .book-inner { grid-template-columns: 1fr; }
+    .footer-inner { grid-template-columns: 1fr; }
+    .section-h2 { font-size: 30px; }
+    .header-inner { padding: 0 16px; gap: 10px; }
+    .header-cta { font-size: 13px; padding: 9px 12px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- hazard top line -->
+<div class="hazard"></div>
+
+<!-- Mobile nav overlay (вне header, чтобы backdrop-filter не ломал position:fixed) -->
+<nav id="mainNav">
+  <div class="mobile-nav-header">
+    <a href="#top" class="logo" onclick="closeNav()">
+      <img src="project/images/logo-horizontal-balanced.png" alt="Arlan Motors" style="height:44px;filter:brightness(0)invert(1);">
+    </a>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div class="lang-switcher mobile-nav-header-lang">
+        <button class="lang-btn active" onclick="setLang('ru')">РУ</button>
+        <button class="lang-btn" onclick="setLang('kz')">ҚАЗ</button>
+      </div>
+      <button class="mobile-nav-close" id="navCloseBtn" aria-label="Закрыть меню">✕</button>
+    </div>
+  </div>
+  <div class="mobile-nav-links">
+    <a href="#services"><span class="nav-num">01</span><span data-i18n="nav.services">Услуги</span><span class="nav-arrow">→</span></a>
+    <a href="#brands"><span class="nav-num">02</span><span data-i18n="nav.brands">Бренды</span><span class="nav-arrow">→</span></a>
+    <a href="#prices"><span class="nav-num">03</span><span data-i18n="nav.prices">Цены</span><span class="nav-arrow">→</span></a>
+    <a href="#places"><span class="nav-num">04</span><span data-i18n="nav.places">Адреса</span><span class="nav-arrow">→</span></a>
+    <a href="#faq"><span class="nav-num">05</span><span data-i18n="nav.faq">Вопросы</span><span class="nav-arrow">→</span></a>
+  </div>
+  <div class="mobile-nav-footer">
+    <a href="tel:+77773881895" class="mobile-nav-phone">
+      <span class="dot-green"></span>+7 777 388 18 95
+    </a>
+  </div>
+</nav>
+
+<!-- HEADER -->
+<header>
+  <div class="header-inner">
+    <a href="#top" class="logo">
+      <img src="project/images/logo-horizontal-balanced.png" alt="Arlan Motors">
+    </a>
+    <nav class="header-nav">
+      <a href="#services" data-i18n="nav.services">Услуги</a>
+      <a href="#brands" data-i18n="nav.brands">Бренды</a>
+      <a href="#prices" data-i18n="nav.prices">Цены</a>
+      <a href="#places" data-i18n="nav.places">Адреса</a>
+      <a href="#faq" data-i18n="nav.faq">Вопросы</a>
+    </nav>
+    <a href="tel:+77773881895" class="header-cta">
+      <span class="dot-green"></span>
+      +7 777 388 18 95
+    </a>
+    <div class="lang-switcher">
+      <button class="lang-btn active" onclick="setLang('ru')">РУ</button>
+      <button class="lang-btn" onclick="setLang('kz')">ҚАЗ</button>
+    </div>
+    <button class="mobile-menu-btn" id="burgerBtn" aria-label="Меню" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<!-- HERO -->
+<section id="top" class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-overlay"></div>
+  <div class="hero-inner">
+    <div class="hero-left">
+      <div class="hero-label">
+        <span class="hero-label-line"></span>
+        <span data-i18n="hero.label">Пункт замены масла</span>
+      </div>
+      <h1 data-i18n-html="hero.h1">Замена масла<br>за <span class="red">20 минут</span></h1>
+      <p class="hero-sub" data-i18n="hero.sub">Оригинальные масла Shell Helix, Castrol и других брендов. Меняем моторное масло, масляный, воздушный и салонный фильтры — пока вы ждёте.</p>
+      <p class="hero-kz" data-i18n="hero.tagline">Таза · Тез · Түпнұсқа маймен</p>
+      <div class="hero-btns">
+        <a href="#book" class="btn-primary" data-i18n="hero.btn.book">Записаться на замену</a>
+        <a href="https://api.whatsapp.com/send/?phone=77773881895&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21+%D0%9F%D0%B8%D1%88%D1%83+%D1%81+%D1%81%D0%B0%D0%B9%D1%82%D0%B0+Arlan+Motors&type=phone_number&app_absent=0" target="_blank" rel="noopener" class="btn-ghost">
+          <span class="dot-green"></span>
+          WhatsApp
+        </a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-num">4.9 <span style="color:#F2C200;">★</span></span>
+          <span class="stat-label" data-i18n="hero.stat.rating">средняя оценка</span>
+        </div>
+        <div class="stat-div"></div>
+        <div class="stat">
+          <span class="stat-num">3</span>
+          <span class="stat-label" data-i18n="hero.stat.places">точки в Талгаре</span>
+        </div>
+        <div class="stat-div"></div>
+        <div class="stat">
+          <span class="stat-num">3 поста</span>
+          <span class="stat-label" data-i18n="hero.stat.posts">без очередей</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-right">
+      <div class="hero-card">
+        <img src="project/​Улица Кунаева, 226/106a4b30-dbad-4540-8796-a71a084fd531.jpg" alt="Arlan Motors">
+        <div class="hero-card-label">
+          <span>АВТОМАГАЗИН · АВТОДҮКЕН</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="hazard-dark"></div>
+</section>
+
+<!-- SERVICES -->
+<section id="services">
+  <div class="services-head">
+    <div>
+      <div class="section-label" data-i18n="services.label">Услуги</div>
+      <h2 data-i18n-html="services.h2">Всё для вашего двигателя<br>в одном месте</h2>
+    </div>
+    <p class="services-desc" data-i18n="services.desc">Подбираем масло под ваш автомобиль и сразу меняем его и фильтры. Авто и мото.</p>
+  </div>
+  <div class="services-grid">
+    <div class="service-card">
+      <div class="service-img">
+        <img src="project/images/Услуги компании/Замена моторного масла.png" alt="Замена моторного масла">
+      </div>
+      <div class="service-top">
+        <span class="service-no">01</span>
+        <span class="service-tag">OIL</span>
+      </div>
+      <h3 data-i18n="s1.h3">Замена моторного масла</h3>
+      <p data-i18n="s1.p">Подберём и заменим масло под ваш авто или мото — пока вы ждёте, около 20 минут.</p>
+    </div>
+    <div class="service-card">
+      <div class="service-img">
+        <img src="project/images/Услуги компании/Масляный фильтр.png" alt="Масляный фильтр">
+      </div>
+      <div class="service-top">
+        <span class="service-no">02</span>
+        <span class="service-tag">FLT</span>
+      </div>
+      <h3 data-i18n="s2.h3">Масляный фильтр</h3>
+      <p data-i18n="s2.p">Замена масляного фильтра вместе с маслом. Только оригинальные расходники.</p>
+    </div>
+    <div class="service-card">
+      <div class="service-img">
+        <img src="project/images/Услуги компании/Воздушный фильтр.png" alt="Воздушный фильтр">
+      </div>
+      <div class="service-top">
+        <span class="service-no">03</span>
+        <span class="service-tag">AIR</span>
+      </div>
+      <h3 data-i18n="s3.h3">Воздушный фильтр</h3>
+      <p data-i18n="s3.p">Проверка и замена воздушного фильтра двигателя для стабильной тяги.</p>
+    </div>
+    <div class="service-card">
+      <div class="service-img">
+        <img src="project/images/Услуги компании/Салонный фильтр.png" alt="Салонный фильтр">
+      </div>
+      <div class="service-top">
+        <span class="service-no">04</span>
+        <span class="service-tag">CAB</span>
+      </div>
+      <h3 data-i18n="s4.h3">Салонный фильтр</h3>
+      <p data-i18n="s4.p">Чистый воздух в салоне — замена салонного фильтра за пару минут.</p>
+    </div>
+    <div class="service-card">
+      <div class="service-img">
+        <img src="project/images/Услуги компании/Масло в АКПП и вариаторе.png" alt="Масло в АКПП и вариаторе">
+      </div>
+      <div class="service-top">
+        <span class="service-no">05</span>
+        <span class="service-tag">ATF</span>
+      </div>
+      <h3 data-i18n="s5.h3">Масло в АКПП и вариаторе</h3>
+      <p data-i18n="s5.p">Замена жидкости в автоматических коробках и вариаторах.</p>
+    </div>
+    <div class="service-card">
+      <div class="service-img">
+        <img src="project/images/Услуги компании/Бесплатная диагностика жидкостей.png" alt="Бесплатная диагностика жидкостей">
+      </div>
+      <div class="service-top">
+        <span class="service-no">06</span>
+        <span class="service-tag">CHK</span>
+      </div>
+      <h3 data-i18n="s6.h3">Бесплатная диагностика жидкостей</h3>
+      <p data-i18n="s6.p">Бесплатная проверка состояния техжидкостей, фильтров, АКПП и вариаторов.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ADVANTAGES -->
+<div class="adv-section">
+  <div class="adv-box">
+    <div class="adv-circle"></div>
+    <div class="adv-head">
+      <div class="section-label section-label-yellow" data-i18n="adv.label">Почему мы</div>
+      <h2 data-i18n="adv.h2">Честно, быстро и без сюрпризов</h2>
+    </div>
+    <div class="adv-grid">
+      <div class="adv-item">
+        <div class="adv-stat">≈20 мин</div>
+        <div class="adv-title" data-i18n="adv1.title">Быстро</div>
+        <div class="adv-desc" data-i18n="adv1.desc">Замена пока вы ждёте, без записи на завтра.</div>
+      </div>
+      <div class="adv-item">
+        <div class="adv-stat">100%</div>
+        <div class="adv-title" data-i18n="adv2.title">Оригинал</div>
+        <div class="adv-desc" data-i18n="adv2.desc">Только сертифицированные масла и фильтры.</div>
+      </div>
+      <div class="adv-item">
+        <div class="adv-stat">3 поста</div>
+        <div class="adv-title" data-i18n="adv3.title">Без очередей</div>
+        <div class="adv-desc" data-i18n="adv3.desc">Несколько машин обслуживаем одновременно.</div>
+      </div>
+      <div class="adv-item">
+        <div class="adv-stat">0 ₸</div>
+        <div class="adv-title" data-i18n="adv4.title">Диагностика</div>
+        <div class="adv-desc" data-i18n="adv4.desc">Бесплатная проверка техжидкостей и фильтров.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- BRANDS -->
+<section id="brands">
+  <div class="brands-inner">
+    <div class="brands-left">
+      <div class="section-label" data-i18n="brands.label">Бренды масел</div>
+      <h2 data-i18n="brands.h2">Только оригинальные масла</h2>
+      <p data-i18n="brands.p">В наличии всегда широкий ассортимент моторных и трансмиссионных масел ведущих производителей — для легковых авто, внедорожников и мототехники.</p>
+      <div class="brands-img">
+        <img src="project/images/shop-shelves.png" alt="Ассортимент масел">
+      </div>
+    </div>
+    <div class="brands-list">
+      <span class="brand-chip">SHELL HELIX</span>
+      <span class="brand-chip">CASTROL</span>
+      <span class="brand-chip">MOBIL 1</span>
+      <span class="brand-chip">TOTAL</span>
+      <span class="brand-chip">LIQUI MOLY</span>
+      <span class="brand-chip">ZIC</span>
+      <span class="brand-chip">ELF</span>
+      <span class="brand-chip">MOTUL</span>
+      <span class="brand-chip">MANNOL</span>
+      <span class="brand-chip">RAVENOL</span>
+      <span class="brand-chip">IDEMITSU</span>
+    </div>
+  </div>
+</section>
+
+<!-- PRICES -->
+<section id="prices">
+  <div class="prices-grid">
+    <div class="prices-left">
+      <div class="section-label" data-i18n="prices.label">Цены</div>
+      <h2 data-i18n="prices.h2">Прозрачный прайс</h2>
+      <div class="prices-table">
+        <div class="price-row">
+          <div><div class="price-name" data-i18n="price1.name">Замена моторного масла (работа)</div></div>
+          <div class="price-val" style="color:#15171B;" data-i18n="price1.val">по запросу</div>
+        </div>
+        <div class="price-row">
+          <div><div class="price-name" data-i18n="price2.name">Замена масляного фильтра</div></div>
+          <div class="price-val" style="color:#15171B;" data-i18n="price2.val">по запросу</div>
+        </div>
+        <div class="price-row">
+          <div><div class="price-name" data-i18n="price3.name">Замена воздушного фильтра</div></div>
+          <div class="price-val" style="color:#15171B;" data-i18n="price3.val">по запросу</div>
+        </div>
+        <div class="price-row">
+          <div><div class="price-name" data-i18n="price4.name">Замена салонного фильтра</div></div>
+          <div class="price-val" style="color:#15171B;" data-i18n="price4.val">по запросу</div>
+        </div>
+        <div class="price-row">
+          <div><div class="price-name" data-i18n="price5.name">Замена жидкости АКПП / вариатор</div></div>
+          <div class="price-val" style="color:#15171B;" data-i18n="price5.val">по запросу</div>
+        </div>
+        <div class="price-row" style="border-bottom:none;">
+          <div><div class="price-name" data-i18n="price6.name">Диагностика техжидкостей и фильтров</div></div>
+          <div class="price-val" style="color:#6F913B;" data-i18n="price6.val">Бесплатно</div>
+        </div>
+        <div class="prices-note" data-i18n="prices.note">Итоговую стоимость уточняйте по телефону — зависит от объёма и марки масла.</div>
+      </div>
+    </div>
+    <div class="payments-box">
+      <div class="payments-circle"></div>
+      <h3 data-i18n="payments.h3">Способы оплаты</h3>
+      <div class="payments-list">
+        <div class="payment-item"><span class="payment-dot"></span><span data-i18n="pay1">Оплата картой</span></div>
+        <div class="payment-item"><span class="payment-dot"></span><span data-i18n="pay2">Наличный расчёт</span></div>
+        <div class="payment-item"><span class="payment-dot"></span><span data-i18n="pay3">Оплата через банк</span></div>
+        <div class="payment-item"><span class="payment-dot"></span><span data-i18n="pay4">Перевод с карты</span></div>
+        <div class="payment-item"><span class="payment-dot"></span><span data-i18n="pay5">Оплата по QR-коду</span></div>
+      </div>
+      <a href="#book" class="payments-cta" data-i18n="payments.cta">Узнать цену для моего авто</a>
+    </div>
+  </div>
+</section>
+
+<!-- PLACES -->
+<section id="places">
+  <div class="places-inner">
+    <div class="places-head">
+      <div class="section-label" data-i18n="places.label">Адреса</div>
+      <h2 class="section-h2" data-i18n="places.h2">Три точки рядом с вами</h2>
+    </div>
+    <div class="places-list">
+
+      <!-- Точка 01: Кунаева 202 — 11 фото -->
+      <div class="place-block">
+        <div class="place-gallery-col">
+          <div class="place-gallery-main" onclick="openLightbox(photos202[0], photos202, 0)">
+            <span class="place-num-badge" data-i18n="place1.badge">Точка 01</span>
+            <img src="project/Улица Кунаева, 202/30258560104917881_fbb5.jpg" alt="Arlan Motors Кунаева 202">
+          </div>
+          <div class="place-gallery-grid">
+            <div class="place-gallery-thumb" onclick="openLightbox(photos202[1], photos202, 1)">
+              <img src="project/Улица Кунаева, 202/0b3b10da-9b5e-4fc8-91ec-710f25bec034.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos202[2], photos202, 2)">
+              <img src="project/Улица Кунаева, 202/ea888692-31f2-4e7e-b8b0-7ccb53d2bf84.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos202[3], photos202, 3)">
+              <img src="project/Улица Кунаева, 202/36712807-74e4-44f9-8f93-2b5937df2470.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos202[4], photos202, 4)">
+              <img src="project/Улица Кунаева, 202/64a59b33-0af4-4b11-9702-c3ec1bafe382.jpg" alt="">
+              <div class="place-gallery-more">+6</div>
+            </div>
+          </div>
+        </div>
+        <div class="place-info-col">
+          <h3>Талгар</h3>
+          <div class="place-addr">ул. Кунаева, 202</div>
+          <div class="place-hours"><span class="place-hours-dot"></span><span data-i18n="place.hours">Пн–Вс · 08:30–19:00</span></div>
+          <a href="https://2gis.kz/almaty/branches/70000001044151165/firm/70000001045167285/77.219788%2C43.304307?m=77.219788%2C43.304307%2F16" target="_blank" rel="noopener" class="place-map" data-i18n="place.map">Открыть на карте →</a>
+        </div>
+      </div>
+
+      <!-- Точка 02: Кунаева 226 — 15 фото -->
+      <div class="place-block" id="place-226">
+        <div class="place-gallery-col">
+          <div class="place-gallery-main" onclick="openLightbox(photos226[0], photos226, 0)">
+            <span class="place-num-badge" data-i18n="place2.badge">Точка 02</span>
+            <img src="project/​Улица Кунаева, 226/dee459f8-87d2-4c2b-a6c3-90eb0efb62a8.jpg" alt="Arlan Motors Кунаева 226">
+          </div>
+          <div class="place-gallery-grid">
+            <div class="place-gallery-thumb" onclick="openLightbox(photos226[1], photos226, 1)">
+              <img src="project/​Улица Кунаева, 226/393927d7-f424-42f5-be5b-a39c87db8f44.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos226[2], photos226, 2)">
+              <img src="project/​Улица Кунаева, 226/fd2b8180-c290-4ef2-9388-acab99adc0e4.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos226[3], photos226, 3)">
+              <img src="project/​Улица Кунаева, 226/9c2f2358-c587-424b-82d9-04853392cf42.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos226[4], photos226, 4)">
+              <img src="project/​Улица Кунаева, 226/3cffad89-5b16-485b-97cf-09ac144eab7d.jpg" alt="">
+              <div class="place-gallery-more">+10</div>
+            </div>
+          </div>
+        </div>
+        <div class="place-info-col">
+          <h3>Талгар</h3>
+          <div class="place-addr">ул. Кунаева, 226</div>
+          <div class="place-hours"><span class="place-hours-dot"></span><span data-i18n="place.hours">Пн–Вс · 08:30–19:00</span></div>
+          <a href="https://2gis.kz/almaty/branches/70000001044151165/firm/70000001102838538/77.216704%2C43.305251?m=77.216704%2C43.305251%2F16" target="_blank" rel="noopener" class="place-map" data-i18n="place.map">Открыть на карте →</a>
+        </div>
+      </div>
+
+      <!-- Точка 03: Байтерек — 11 фото -->
+      <div class="place-block">
+        <div class="place-gallery-col">
+          <div class="place-gallery-main" onclick="openLightbox(photos119[0], photos119, 0)">
+            <span class="place-num-badge" data-i18n="place3.badge">Точка 03</span>
+            <img src="project/Улица Альмерек Абыз, 119/30258560104918252_4236.jpg" alt="Arlan Motors Байтерек">
+          </div>
+          <div class="place-gallery-grid">
+            <div class="place-gallery-thumb" onclick="openLightbox(photos119[1], photos119, 1)">
+              <img src="project/Улица Альмерек Абыз, 119/30258560166979658_582a.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos119[2], photos119, 2)">
+              <img src="project/Улица Альмерек Абыз, 119/a70a21ee-f653-4e93-904b-5ff99ca26bfe.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos119[3], photos119, 3)">
+              <img src="project/Улица Альмерек Абыз, 119/bfede12b-77e4-4600-899c-68974892170d.jpg" alt="">
+            </div>
+            <div class="place-gallery-thumb" onclick="openLightbox(photos119[4], photos119, 4)">
+              <img src="project/Улица Альмерек Абыз, 119/16c9c168-58d0-431e-9b68-37fb138adf9f.jpg" alt="">
+              <div class="place-gallery-more">+6</div>
+            </div>
+          </div>
+        </div>
+        <div class="place-info-col">
+          <h3>с. Байтерек</h3>
+          <div class="place-addr">ул. Альмерек Абыз, 119</div>
+          <div class="place-hours"><span class="place-hours-dot"></span><span data-i18n="place.hours">Пн–Вс · 08:30–19:00</span></div>
+          <a href="https://2gis.kz/almaty/branches/70000001044151165/firm/70000001044110051/77.229773%2C43.405668?m=77.229773%2C43.405668%2F16" target="_blank" rel="noopener" class="place-map" data-i18n="place.map">Открыть на карте →</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="reviews-section">
+  <div class="reviews-head">
+    <div class="section-label" data-i18n="reviews.label">Отзывы</div>
+    <h2 class="section-h2" data-i18n="reviews.h2">Что говорят клиенты</h2>
+  </div>
+  <div class="review-tags">
+    <span class="review-tag" data-i18n="rtag1">Отличный сервис</span>
+    <span class="review-tag" data-i18n="rtag2">Быстро и качественно</span>
+    <span class="review-tag" data-i18n="rtag3">Вежливый персонал</span>
+    <span class="review-tag" data-i18n="rtag4">Адекватные цены</span>
+    <span class="review-tag" data-i18n="rtag5">Качественное масло</span>
+    <span class="review-tag" data-i18n="rtag6">Быстрое обслуживание</span>
+    <span class="review-tag" data-i18n="rtag7">Квалифицированный персонал</span>
+    <span class="review-tag" data-i18n="rtag8">Чисто и аккуратно</span>
+    <span class="review-tag" data-i18n="rtag9">Честный сервис</span>
+    <span class="review-tag" data-i18n="rtag10">Большой выбор</span>
+    <span class="review-tag" data-i18n="rtag11">Приятный персонал</span>
+    <span class="review-tag" data-i18n="rtag12">Приемлемые цены</span>
+    <span class="review-tag" data-i18n="rtag13">Грамотный персонал</span>
+    <span class="review-tag" data-i18n="rtag14">Качественно и недорого</span>
+    <span class="review-tag" data-i18n="rtag15">Отличное место</span>
+    <span class="review-tag" data-i18n="rtag16">Приветливый персонал</span>
+    <span class="review-tag" data-i18n="rtag17">Быстро поменяли масло</span>
+    <span class="review-tag" data-i18n="rtag18">Хорошо и качественно</span>
+    <span class="review-tag" data-i18n="rtag19">Приятные цены</span>
+    <span class="review-tag" data-i18n="rtag20">Отличный автосервис</span>
+    <span class="review-tag" data-i18n="rtag21">Сделали качественно</span>
+    <span class="review-tag" data-i18n="rtag22">Сделали быстро</span>
+    <span class="review-tag" data-i18n="rtag23">Отличный персонал</span>
+  </div>
+  <div class="reviews-grid">
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p data-i18n="rev1.p">Замечательный сервис по замене масла и прочим жидкостям. Обслуживаюсь в Арлан Моторс уже 4–5 год. Специалисты всегда вежливы, терпеливы ко множеству вопросов, всегда порекомендуют лучшее. Менеджер Данияр очень клиентоориентирован. В новом филиале всё новое, современное — кофемашина, зона ожидания. Спасибо за качество!</p>
+      <div class="review-footer">
+        <div class="review-avatar">КГ</div>
+        <div>
+          <div class="review-name">К. Гаухар</div>
+          <div class="review-when" data-i18n="rev1.when">Постоянный клиент · 4–5 лет</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p data-i18n="rev2.p">Хочу поблагодарить сотрудников Арлан Моторс за квалифицированную работу. Обслуживаюсь только у них около 3 лет, очень доволен. Все расходники оригинальные. Внимательное обслуживание, чистота, порядочность. Получаю бонусы и приятные подарки. Всем рекомендую!</p>
+      <div class="review-footer">
+        <div class="review-avatar">НА</div>
+        <div>
+          <div class="review-name">Нуржан Азисханов</div>
+          <div class="review-when" data-i18n="rev2.when">Постоянный клиент · 3 года</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p data-i18n="rev3.p">Самый отличный пункт по замене масла. 8 лет только у них меняю масла. Спасибо ребятам.</p>
+      <div class="review-footer">
+        <div class="review-avatar">БТ</div>
+        <div>
+          <div class="review-name">Болат Тайгулов</div>
+          <div class="review-when" data-i18n="rev3.when">Постоянный клиент · 8 лет</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p data-i18n="rev4.p">Очень классный ПЗМ. Всю продукцию закупают в оригинале — что очень редко. Быстро и оперативно подсказывают, помогают. Менеджер Данияр весь процесс замены держал в курсе. Доволен работой!</p>
+      <div class="review-footer">
+        <div class="review-avatar">RK</div>
+        <div>
+          <div class="review-name">Rustam Kurbanov</div>
+          <div class="review-when" data-i18n="rev4.when">Замена масла</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p data-i18n="rev5.p">Отличное место по обслуживанию автомобиля. Всегда проконсультируют и ответят на все вопросы. Большой ассортимент масел и жидкостей для авто и мото. Профессиональные мастера своего дела. Обслуживаемся у них уже много лет. Благодарю за то, что вы есть!</p>
+      <div class="review-footer">
+        <div class="review-avatar">PD</div>
+        <div>
+          <div class="review-name">Paul Diginau</div>
+          <div class="review-when" data-i18n="rev5.when">Постоянный клиент</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p data-i18n="rev6.p">Отличный сервис! Работают чётко и быстро — чувствуется рука мастера. Постоянно обслуживаю машину здесь. Приезжаю специально издалека.</p>
+      <div class="review-footer">
+        <div class="review-avatar">AG</div>
+        <div>
+          <div class="review-name">Aidar Gimadeyev</div>
+          <div class="review-when" data-i18n="rev6.when">Замена масла</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="text-align:center; margin-top:32px;">
+    <a href="https://2gis.kz/almaty/firm/70000001102838538/tab/reviews?m=77.216704%2C43.305251%2F16" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:8px; color:#D8232A; font-weight:700; font-size:15px; text-decoration:none; border:1.5px solid #D8232A; padding:12px 24px; border-radius:10px; transition:background .2s;" onmouseover="this.style.background='#D8232A';this.style.color='#fff'" onmouseout="this.style.background='transparent';this.style.color='#D8232A'">
+      <span data-i18n="reviews.all">363 отзыва на 2ГИС →</span>
+    </a>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="faq">
+  <div class="faq-inner">
+    <div class="faq-head">
+      <div class="section-label" data-i18n="faq.label">Вопросы</div>
+      <h2 class="section-h2" data-i18n="faq.h2">Частые вопросы</h2>
+    </div>
+    <div class="faq-list">
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          <span class="faq-q" data-i18n="faq1.q">Сколько времени занимает замена масла?</span>
+          <span class="faq-sign">+</span>
+        </button>
+        <div class="faq-answer" data-i18n="faq1.a">В среднем около 20 минут. Работают несколько постов, поэтому очередей почти не бывает.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          <span class="faq-q" data-i18n="faq2.q">Нужно ли записываться заранее?</span>
+          <span class="faq-sign">+</span>
+        </button>
+        <div class="faq-answer" data-i18n="faq2.a">Можно приехать без записи. Но если оставите заявку или напишете в WhatsApp — подберём масло заранее и примем вас быстрее.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          <span class="faq-q" data-i18n="faq3.q">Вы используете оригинальные масла?</span>
+          <span class="faq-sign">+</span>
+        </button>
+        <div class="faq-answer" data-i18n="faq3.a">Да. В наличии оригинальные масла Shell Helix, Castrol, Mobil, Total и других брендов для авто и мото.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          <span class="faq-q" data-i18n="faq4.q">Меняете ли масло в АКПП и вариаторе?</span>
+          <span class="faq-sign">+</span>
+        </button>
+        <div class="faq-answer" data-i18n="faq4.a">Да, выполняем замену жидкости в автоматических коробках передач и вариаторах.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          <span class="faq-q" data-i18n="faq5.q">Что входит в бесплатную диагностику?</span>
+          <span class="faq-sign">+</span>
+        </button>
+        <div class="faq-answer" data-i18n="faq5.a">Бесплатно проверяем уровень и состояние техжидкостей, фильтров, а также АКПП и вариаторов.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          <span class="faq-q" data-i18n="faq6.q">Какие способы оплаты доступны?</span>
+          <span class="faq-sign">+</span>
+        </button>
+        <div class="faq-answer" data-i18n="faq6.a">Принимаем оплату картой, наличными, по QR-коду, переводом с карты и через банк.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          <span class="faq-q" data-i18n="faq7.q">Удобно ли клиентам с инвалидностью?</span>
+          <span class="faq-sign">+</span>
+        </button>
+        <div class="faq-answer" data-i18n="faq7.a">Да, обеспечен доступный вход для людей с инвалидностью — доступная среда.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BOOKING + CONTACTS -->
+<section id="book">
+  <div class="book-inner">
+    <div class="book-left">
+      <div class="section-label section-label-yellow" data-i18n="book.label">Запись</div>
+      <h2 data-i18n-html="book.h2">Запишитесь<br>на замену масла</h2>
+      <p data-i18n="book.p">Оставьте заявку — перезвоним, подберём масло и предложим удобное время. Или напишите нам сразу в WhatsApp.</p>
+      <div class="contact-links">
+        <a href="tel:+77773881895" class="contact-link">
+          <span class="contact-icon contact-icon-red">☎</span>
+          <span>
+            <span class="contact-sublabel" data-i18n="contact.phone.label">ЕДИНЫЙ НОМЕР</span>
+            <span class="contact-val">+7 777 388 18 95</span>
+          </span>
+        </a>
+        <a href="https://api.whatsapp.com/send/?phone=77773881895&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21+%D0%9F%D0%B8%D1%88%D1%83+%D1%81+%D1%81%D0%B0%D0%B9%D1%82%D0%B0+Arlan+Motors&type=phone_number&app_absent=0" target="_blank" rel="noopener" class="contact-link">
+          <span class="contact-icon contact-icon-green">WA</span>
+          <span>
+            <span class="contact-sublabel" data-i18n="contact.wa.label">WHATSAPP</span>
+            <span class="contact-val" data-i18n="contact.wa.val">Написать в чат</span>
+          </span>
+        </a>
+        <div class="contact-link" style="cursor:default;">
+          <span class="contact-icon contact-icon-dark">⏱</span>
+          <span>
+            <span class="contact-sublabel" data-i18n="contact.hours.label">РЕЖИМ РАБОТЫ</span>
+            <span class="contact-val" data-i18n="contact.hours.val">Пн–Вс · 08:30–19:00</span>
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="book-form-wrap">
+      <div class="form-success" id="formSuccess">
+        <div class="form-success-icon">✓</div>
+        <h3 data-i18n="form.success.h3">Заявка принята!</h3>
+        <p data-i18n="form.success.p">Мы перезвоним вам в ближайшее время в рабочие часы. Спасибо, что выбрали Arlan Motors.</p>
+        <a href="https://api.whatsapp.com/send/?phone=77773881895&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21+%D0%9F%D0%B8%D1%88%D1%83+%D1%81+%D1%81%D0%B0%D0%B9%D1%82%D0%B0+Arlan+Motors&type=phone_number&app_absent=0" target="_blank" rel="noopener" data-i18n="form.success.wa">Написать в WhatsApp прямо сейчас →</a>
+      </div>
+      <form id="bookingForm" onsubmit="handleSubmit(event)">
+        <h3 data-i18n="form.h3">Оставить заявку</h3>
+        <div class="form-fields">
+          <label class="form-label">
+            <span class="form-label-text" data-i18n="form.name.label">Ваше имя</span>
+            <input name="name" required placeholder="Как к вам обращаться" class="form-input" data-i18n-ph="form.name.placeholder">
+          </label>
+          <label class="form-label">
+            <span class="form-label-text" data-i18n="form.phone.label">Телефон</span>
+            <input name="phone" required type="tel" placeholder="+7 ___ ___ __ __" class="form-input">
+          </label>
+          <label class="form-label">
+            <span class="form-label-text" data-i18n="form.make.label">Марка автомобиля</span>
+            <div class="ac-wrap">
+              <input id="carMakeInput" name="car_make" autocomplete="off" placeholder="Начните вводить марку…" class="form-input" style="padding-right:36px" data-i18n-ph="form.make.placeholder">
+              <button type="button" class="ac-clear" id="carMakeClear" tabindex="-1" aria-label="Очистить">×</button>
+              <div class="ac-dropdown" id="carMakeDropdown"></div>
+            </div>
+          </label>
+          <label class="form-label" id="carModelLabel" style="display:none">
+            <span class="form-label-text" data-i18n="form.model.label">Модель</span>
+            <div class="ac-wrap">
+              <input id="carModelInput" name="car_model" autocomplete="off" placeholder="Начните вводить модель…" class="form-input" style="padding-right:36px" data-i18n-ph="form.model.placeholder">
+              <button type="button" class="ac-clear" id="carModelClear" tabindex="-1" aria-label="Очистить">×</button>
+              <div class="ac-dropdown" id="carModelDropdown"></div>
+            </div>
+          </label>
+          <label class="form-label" id="carYearLabel" style="display:none">
+            <span class="form-label-text" data-i18n="form.year.label">Год выпуска</span>
+            <input id="carYearInput" name="car_year" type="number" min="1990" max="2025" placeholder="Например, 2019" class="form-input" data-i18n-ph="form.year.placeholder">
+          </label>
+          <label class="form-label">
+            <span class="form-label-text" data-i18n="form.place.label">Точка</span>
+            <select name="place" id="placeSelect" class="form-select">
+              <option value="202">Талгар, ул. Кунаева, 202</option>
+              <option value="226">Талгар, ул. Кунаева, 226</option>
+              <option value="119">с. Байтерек, ул. Альмерек Абыз, 119</option>
+            </select>
+            <a class="place-map-link visible" id="placeMapLink" href="#" target="_blank" rel="noopener" data-i18n="form.place.map">Открыть на карте →</a>
+          </label>
+          <button type="submit" class="form-submit" data-i18n="form.submit">Отправить заявку</button>
+          <p class="form-agree" data-i18n="form.agree">Нажимая кнопку, вы соглашаетесь на обработку персональных данных.</p>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="hazard-footer"></div>
+  <div class="footer-inner">
+    <div class="footer-col-1">
+      <div class="footer-logo-wrap">
+        <img src="project/images/logo-horizontal-balanced.png" alt="Arlan Motors">
+      </div>
+      <p data-i18n="footer.about">Пункты замены масла и автомагазин. Оригинальные масла и фильтры для авто и мото в Талгаре.</p>
+    </div>
+    <div>
+      <div class="footer-col-label" data-i18n="footer.addr.label">Адреса</div>
+      <div class="footer-links">
+        <span>Талгар, ул. Кунаева, 202</span>
+        <span>Талгар, ул. Кунаева, 226</span>
+        <span>с. Байтерек, ул. Альмерек Абыз, 119</span>
+      </div>
+    </div>
+    <div>
+      <div class="footer-col-label" data-i18n="footer.contacts.label">Контакты</div>
+      <div class="footer-links">
+        <a href="tel:+77773881895" class="white">+7 777 388 18 95</a>
+        <a href="https://api.whatsapp.com/send/?phone=77773881895&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21+%D0%9F%D0%B8%D1%88%D1%83+%D1%81+%D1%81%D0%B0%D0%B9%D1%82%D0%B0+Arlan+Motors&type=phone_number&app_absent=0" target="_blank" rel="noopener">WhatsApp</a>
+        <a href="https://www.instagram.com/arlan_motors_talgar" target="_blank" rel="noopener">Instagram</a>
+        <span style="color:#888C94;">Пн–Вс · 08:30–19:00</span>
+      </div>
+    </div>
+  </div>
+  <div style="border-top:1px solid #1A1D22;">
+    <div class="footer-bottom">
+      <span class="footer-copy">© <span id="year"></span> Arlan Motors. <span data-i18n="footer.rights">Все права защищены.</span></span>
+      <span class="footer-a11y" data-i18n="footer.a11y">Доступная среда · доступный вход</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  // ======= i18n =======
+  const T = {
+    ru: {
+      'nav.services':'Услуги','nav.brands':'Бренды','nav.prices':'Цены','nav.places':'Адреса','nav.faq':'Вопросы',
+      'hero.label':'Пункт замены масла',
+      'hero.h1':'Замена масла<br>за <span class="red">20 минут</span>',
+      'hero.sub':'Оригинальные масла Shell Helix, Castrol и других брендов. Меняем моторное масло, масляный, воздушный и салонный фильтры — пока вы ждёте.',
+      'hero.tagline':'Чисто · Быстро · Оригинальное масло',
+      'hero.btn.book':'Записаться на замену',
+      'hero.stat.rating':'средняя оценка','hero.stat.places':'точки в Талгаре','hero.stat.posts':'без очередей',
+      'services.label':'Услуги','services.h2':'Всё для вашего двигателя<br>в одном месте',
+      'services.desc':'Подбираем масло под ваш автомобиль и сразу меняем его и фильтры. Авто и мото.',
+      's1.h3':'Замена моторного масла','s1.p':'Подберём и заменим масло под ваш авто или мото — пока вы ждёте, около 20 минут.',
+      's2.h3':'Масляный фильтр','s2.p':'Замена масляного фильтра вместе с маслом. Только оригинальные расходники.',
+      's3.h3':'Воздушный фильтр','s3.p':'Проверка и замена воздушного фильтра двигателя для стабильной тяги.',
+      's4.h3':'Салонный фильтр','s4.p':'Чистый воздух в салоне — замена салонного фильтра за пару минут.',
+      's5.h3':'Масло в АКПП и вариаторе','s5.p':'Замена жидкости в автоматических коробках и вариаторах.',
+      's6.h3':'Бесплатная диагностика жидкостей','s6.p':'Бесплатная проверка состояния техжидкостей, фильтров, АКПП и вариаторов.',
+      'adv.label':'Почему мы','adv.h2':'Честно, быстро и без сюрпризов',
+      'adv1.title':'Быстро','adv1.desc':'Замена пока вы ждёте, без записи на завтра.',
+      'adv2.title':'Оригинал','adv2.desc':'Только сертифицированные масла и фильтры.',
+      'adv3.title':'Без очередей','adv3.desc':'Несколько машин обслуживаем одновременно.',
+      'adv4.title':'Диагностика','adv4.desc':'Бесплатная проверка техжидкостей и фильтров.',
+      'brands.label':'Бренды масел','brands.h2':'Только оригинальные масла',
+      'brands.p':'В наличии всегда широкий ассортимент моторных и трансмиссионных масел ведущих производителей — для легковых авто, внедорожников и мототехники.',
+      'prices.label':'Цены','prices.h2':'Прозрачный прайс',
+      'price1.name':'Замена моторного масла (работа)','price1.val':'по запросу',
+      'price2.name':'Замена масляного фильтра','price2.val':'по запросу',
+      'price3.name':'Замена воздушного фильтра','price3.val':'по запросу',
+      'price4.name':'Замена салонного фильтра','price4.val':'по запросу',
+      'price5.name':'Замена жидкости АКПП / вариатор','price5.val':'по запросу',
+      'price6.name':'Диагностика техжидкостей и фильтров','price6.val':'Бесплатно',
+      'prices.note':'Итоговую стоимость уточняйте по телефону — зависит от объёма и марки масла.',
+      'payments.h3':'Способы оплаты',
+      'pay1':'Оплата картой','pay2':'Наличный расчёт','pay3':'Оплата через банк','pay4':'Перевод с карты','pay5':'Оплата по QR-коду',
+      'payments.cta':'Узнать цену для моего авто',
+      'places.label':'Адреса','places.h2':'Три точки рядом с вами',
+      'place1.badge':'Точка 01','place2.badge':'Точка 02','place3.badge':'Точка 03',
+      'place.hours':'Пн–Вс · 08:30–19:00','place.map':'Открыть на карте →',
+      'reviews.label':'Отзывы','reviews.h2':'Что говорят клиенты','reviews.all':'363 отзыва на 2ГИС →',
+      'rtag1':'Отличный сервис','rtag2':'Быстро и качественно','rtag3':'Вежливый персонал','rtag4':'Адекватные цены','rtag5':'Качественное масло',
+      'rtag6':'Быстрое обслуживание','rtag7':'Квалифицированный персонал','rtag8':'Чисто и аккуратно','rtag9':'Честный сервис','rtag10':'Большой выбор',
+      'rtag11':'Приятный персонал','rtag12':'Приемлемые цены','rtag13':'Грамотный персонал','rtag14':'Качественно и недорого','rtag15':'Отличное место',
+      'rtag16':'Приветливый персонал','rtag17':'Быстро поменяли масло','rtag18':'Хорошо и качественно','rtag19':'Приятные цены',
+      'rtag20':'Отличный автосервис','rtag21':'Сделали качественно','rtag22':'Сделали быстро','rtag23':'Отличный персонал',
+      'rev1.p':'Замечательный сервис по замене масла и прочим жидкостям. Обслуживаюсь в Арлан Моторс уже 4–5 год. Специалисты всегда вежливы, терпеливы ко множеству вопросов, всегда порекомендуют лучшее. Менеджер Данияр очень клиентоориентирован. В новом филиале всё новое, современное — кофемашина, зона ожидания. Спасибо за качество!',
+      'rev1.when':'Постоянный клиент · 4–5 лет',
+      'rev2.p':'Хочу поблагодарить сотрудников Арлан Моторс за квалифицированную работу. Обслуживаюсь только у них около 3 лет, очень доволен. Все расходники оригинальные. Внимательное обслуживание, чистота, порядочность. Получаю бонусы и приятные подарки. Всем рекомендую!',
+      'rev2.when':'Постоянный клиент · 3 года',
+      'rev3.p':'Самый отличный пункт по замене масла. 8 лет только у них меняю масла. Спасибо ребятам.',
+      'rev3.when':'Постоянный клиент · 8 лет',
+      'rev4.p':'Очень классный ПЗМ. Всю продукцию закупают в оригинале — что очень редко. Быстро и оперативно подсказывают, помогают. Менеджер Данияр весь процесс замены держал в курсе. Доволен работой!',
+      'rev4.when':'Замена масла',
+      'rev5.p':'Отличное место по обслуживанию автомобиля. Всегда проконсультируют и ответят на все вопросы. Большой ассортимент масел и жидкостей для авто и мото. Профессиональные мастера своего дела. Обслуживаемся у них уже много лет. Благодарю за то, что вы есть!',
+      'rev5.when':'Постоянный клиент',
+      'rev6.p':'Отличный сервис! Работают чётко и быстро — чувствуется рука мастера. Постоянно обслуживаю машину здесь. Приезжаю специально издалека.',
+      'rev6.when':'Замена масла',
+      'faq.label':'Вопросы','faq.h2':'Частые вопросы',
+      'faq1.q':'Сколько времени занимает замена масла?','faq1.a':'В среднем около 20 минут. Работают несколько постов, поэтому очередей почти не бывает.',
+      'faq2.q':'Нужно ли записываться заранее?','faq2.a':'Можно приехать без записи. Но если оставите заявку или напишете в WhatsApp — подберём масло заранее и примем вас быстрее.',
+      'faq3.q':'Вы используете оригинальные масла?','faq3.a':'Да. В наличии оригинальные масла Shell Helix, Castrol, Mobil, Total и других брендов для авто и мото.',
+      'faq4.q':'Меняете ли масло в АКПП и вариаторе?','faq4.a':'Да, выполняем замену жидкости в автоматических коробках передач и вариаторах.',
+      'faq5.q':'Что входит в бесплатную диагностику?','faq5.a':'Бесплатно проверяем уровень и состояние техжидкостей, фильтров, а также АКПП и вариаторов.',
+      'faq6.q':'Какие способы оплаты доступны?','faq6.a':'Принимаем оплату картой, наличными, по QR-коду, переводом с карты и через банк.',
+      'faq7.q':'Удобно ли клиентам с инвалидностью?','faq7.a':'Да, обеспечен доступный вход для людей с инвалидностью — доступная среда.',
+      'book.label':'Запись','book.h2':'Запишитесь<br>на замену масла',
+      'book.p':'Оставьте заявку — перезвоним, подберём масло и предложим удобное время. Или напишите нам сразу в WhatsApp.',
+      'contact.phone.label':'ЕДИНЫЙ НОМЕР','contact.wa.label':'WHATSAPP','contact.wa.val':'Написать в чат',
+      'contact.hours.label':'РЕЖИМ РАБОТЫ','contact.hours.val':'Пн–Вс · 08:30–19:00',
+      'form.success.h3':'Заявка принята!','form.success.p':'Мы перезвоним вам в ближайшее время в рабочие часы. Спасибо, что выбрали Arlan Motors.',
+      'form.success.wa':'Написать в WhatsApp прямо сейчас →',
+      'form.h3':'Оставить заявку','form.name.label':'Ваше имя','form.name.placeholder':'Как к вам обращаться',
+      'form.phone.label':'Телефон','form.make.label':'Марка автомобиля','form.make.placeholder':'Начните вводить марку…',
+      'form.model.label':'Модель','form.model.placeholder':'Начните вводить модель…',
+      'form.year.label':'Год выпуска','form.year.placeholder':'Например, 2019',
+      'form.place.label':'Точка','form.place.map':'Открыть на карте →',
+      'form.submit':'Отправить заявку','form.agree':'Нажимая кнопку, вы соглашаетесь на обработку персональных данных.',
+      'footer.about':'Пункты замены масла и автомагазин. Оригинальные масла и фильтры для авто и мото в Талгаре.',
+      'footer.addr.label':'Адреса','footer.contacts.label':'Контакты',
+      'footer.rights':'Все права защищены.','footer.a11y':'Доступная среда · доступный вход',
+    },
+    kz: {
+      'nav.services':'Қызметтер','nav.brands':'Брендтер','nav.prices':'Бағалар','nav.places':'Мекенжайлар','nav.faq':'Сұрақтар',
+      'hero.label':'Май ауыстыру пункті',
+      'hero.h1':'Май ауыстыру<br><span class="red">20 минутта</span>',
+      'hero.sub':'Shell Helix, Castrol және басқа брендтердің түпнұсқа майлары. Қозғалтқыш майын, май, ауа және салон сүзгілерін ауыстырамыз — сіз күткен кезде.',
+      'hero.tagline':'Таза · Тез · Түпнұсқа маймен',
+      'hero.btn.book':'Жазылуға',
+      'hero.stat.rating':'орташа баға','hero.stat.places':'Талғардағы нүктелер','hero.stat.posts':'кезексіз',
+      'services.label':'Қызметтер','services.h2':'Қозғалтқышыңызға қажеттінің<br>барлығы бір жерде',
+      'services.desc':'Көлігіңізге сай май таңдап, оны және сүзгілерді дереу ауыстырамыз. Авто және мото.',
+      's1.h3':'Қозғалтқыш майын ауыстыру','s1.p':'Авто немесе мотоцикліңізге сай майды таңдап ауыстырамыз — сіз күткен кезде, шамамен 20 минут.',
+      's2.h3':'Май сүзгісі','s2.p':'Май сүзгісін маймен бірге ауыстыру. Тек түпнұсқа жинақтаушы бөлшектер.',
+      's3.h3':'Ауа сүзгісі','s3.p':'Тұрақты тартымдылық үшін қозғалтқыш ауа сүзгісін тексеру және ауыстыру.',
+      's4.h3':'Салон сүзгісі','s4.p':'Салондағы таза ауа — салон сүзгісін бірнеше минутта ауыстыру.',
+      's5.h3':'АКПП / вариатор майы','s5.p':'Автоматты қораптар мен вариаторлардағы сұйықтықты ауыстыру.',
+      's6.h3':'Техникалық сұйықтықтарды тегін диагностика','s6.p':'Техникалық сұйықтықтардың, сүзгілердің, АКПП мен вариатордың күйін тегін тексеру.',
+      'adv.label':'Артықшылықтар','adv.h2':'Адал, жылдам және сюрпризсіз',
+      'adv1.title':'Жылдам','adv1.desc':'Ертеңге жазбай-ақ, сіз күткен кезде ауыстырамыз.',
+      'adv2.title':'Түпнұсқа','adv2.desc':'Тек сертификатталған майлар мен сүзгілер.',
+      'adv3.title':'Кезексіз','adv3.desc':'Бірнеше автомобильді бір мезгілде қызмет көрсетеміз.',
+      'adv4.title':'Диагностика','adv4.desc':'Техникалық сұйықтықтар мен сүзгілерді тегін тексеру.',
+      'brands.label':'Май брендтері','brands.h2':'Тек түпнұсқа майлар',
+      'brands.p':'Жеңіл автомобильдер, жол талғамайтын көліктер және мототехника үшін жетекші өндірушілердің моторлық және трансмиссиялық майларының кең ассортименті әрдайым бар.',
+      'prices.label':'Бағалар','prices.h2':'Ашық баға тізімі',
+      'price1.name':'Қозғалтқыш майын ауыстыру (жұмыс)','price1.val':'сұрау бойынша',
+      'price2.name':'Май сүзгісін ауыстыру','price2.val':'сұрау бойынша',
+      'price3.name':'Ауа сүзгісін ауыстыру','price3.val':'сұрау бойынша',
+      'price4.name':'Салон сүзгісін ауыстыру','price4.val':'сұрау бойынша',
+      'price5.name':'АКПП / вариатор сұйықтығын ауыстыру','price5.val':'сұрау бойынша',
+      'price6.name':'Техникалық сұйықтықтар мен сүзгілер диагностикасы','price6.val':'Тегін',
+      'prices.note':'Соңғы бағаны телефон арқылы нақтылаңыз — май көлемі мен маркасына байланысты.',
+      'payments.h3':'Төлем тәсілдері',
+      'pay1':'Картамен төлем','pay2':'Қолма-қол есеп','pay3':'Банк арқылы төлем','pay4':'Карта аударымы','pay5':'QR-код арқылы төлем',
+      'payments.cta':'Менің көлігімнің бағасын білу',
+      'places.label':'Мекенжайлар','places.h2':'Жаныңыздағы үш нүкте',
+      'place1.badge':'01 нүкте','place2.badge':'02 нүкте','place3.badge':'03 нүкте',
+      'place.hours':'Дс–Жк · 08:30–19:00','place.map':'Картада ашу →',
+      'reviews.label':'Пікірлер','reviews.h2':'Клиенттер не дейді','reviews.all':'2ГИС-те 363 пікір →',
+      'rtag1':'Тамаша қызмет','rtag2':'Жылдам және сапалы','rtag3':'Сыпайы қызметкерлер','rtag4':'Қолжетімді бағалар','rtag5':'Сапалы май',
+      'rtag6':'Жылдам қызмет','rtag7':'Білікті қызметкерлер','rtag8':'Таза және ұқыпты','rtag9':'Адал қызмет','rtag10':'Үлкен таңдау',
+      'rtag11':'Жағымды қызметкерлер','rtag12':'Қолайлы бағалар','rtag13':'Кәсіби қызметкерлер','rtag14':'Сапалы және арзан','rtag15':'Тамаша орын',
+      'rtag16':'Мейірімді қызметкерлер','rtag17':'Майды жылдам ауыстырды','rtag18':'Жақсы және сапалы','rtag19':'Жағымды бағалар',
+      'rtag20':'Тамаша автосервис','rtag21':'Сапалы орындады','rtag22':'Жылдам орындады','rtag23':'Тамаша қызметкерлер',
+      'rev1.p':'Май ауыстыру және басқа сұйықтықтар бойынша тамаша қызмет. Арлан Моторста 4–5 жылдан бері қызмет алып жүрмін. Мамандар әрқашан сыпайы, сан алуан сұрақтарға төзімді, әрқашан ең жақсысын ұсынады. Менеджер Данияр өте клиентбағдарлы. Жаңа филиалда бәрі жаңа, заманауи — кофемашина, күту аймағы. Сапа үшін рахмет!',
+      'rev1.when':'Тұрақты клиент · 4–5 жыл',
+      'rev2.p':'Арлан Моторс қызметкерлеріне білікті жұмыстары үшін алғыс айтқым келеді. Тек олардан 3 жылға жуық қызмет алып жүрмін, өте риза мын. Барлық жинақтаушы бөлшектер түпнұсқа. Зейінді қызмет, тазалық, адалдық. Бонустар мен жағымды сыйлықтар аламын. Бәріне ұсынамын!',
+      'rev2.when':'Тұрақты клиент · 3 жыл',
+      'rev3.p':'Май ауыстырудың ең тамаша нүктесі. 8 жылдан бері тек солардан май ауыстырамын. Жігіттерге рахмет.',
+      'rev3.when':'Тұрақты клиент · 8 жыл',
+      'rev4.p':'Өте керемет МАН. Барлық өнімді түпнұсқадан сатып алады — бұл өте сирек кездеседі. Жылдам және оперативті кеңес береді, көмектеседі. Менеджер Данияр ауыстыру процесінің барлық кезеңінде хабардар етіп отырды. Жұмысқа риза!',
+      'rev4.when':'Май ауыстыру',
+      'rev5.p':'Автомобильге қызмет көрсетудің тамаша орны. Әрқашан кеңес беріп, барлық сұрақтарға жауап береді. Авто және мото үшін майлар мен сұйықтықтардың үлкен ассортименті. Кәсіби шеберлер. Олардан көп жылдан бері қызмет алып жүрміз. Барыңызға алғыс!',
+      'rev5.when':'Тұрақты клиент',
+      'rev6.p':'Тамаша қызмет! Нақты және жылдам жұмыс істейді — шебердің қолы сезіледі. Машинамды үнемі осында қызмет көрсетемін. Алыстан арнайы келемін.',
+      'rev6.when':'Май ауыстыру',
+      'faq.label':'Сұрақтар','faq.h2':'Жиі қойылатын сұрақтар',
+      'faq1.q':'Май ауыстыру қанша уақыт алады?','faq1.a':'Орта есеппен шамамен 20 минут. Бірнеше пост жұмыс істейді, сондықтан кезек болмайды.',
+      'faq2.q':'Алдын ала жазылу қажет пе?','faq2.a':'Жазылмай-ақ келуге болады. Бірақ өтінім қалдырсаңыз немесе WhatsApp-қа жазсаңыз — майды алдын ала таңдап, сізді жылдамырақ қабылдаймыз.',
+      'faq3.q':'Сіздер түпнұсқа майларды пайдаланасыздар ма?','faq3.a':'Иә. Авто және мото үшін Shell Helix, Castrol, Mobil, Total және басқа брендтердің түпнұсқа майлары бар.',
+      'faq4.q':'АКПП мен вариатордағы майды ауыстырасыз ба?','faq4.a':'Иә, автоматты беріліс қораптары мен вариаторлардағы сұйықтықты ауыстырамыз.',
+      'faq5.q':'Тегін диагностикаға не кіреді?','faq5.a':'Техникалық сұйықтықтар мен сүзгілердің деңгейі мен күйін, сондай-ақ АКПП мен вариаторды тегін тексереміз.',
+      'faq6.q':'Қандай төлем тәсілдері бар?','faq6.a':'Картамен, қолма-қол, QR-код арқылы, карта аударымымен және банк арқылы төлемді қабылдаймыз.',
+      'faq7.q':'Мүгедектігі бар клиенттерге ыңғайлы ма?','faq7.a':'Иә, мүгедектігі бар адамдар үшін қолжетімді кіру қамтамасыз етілген — қолжетімді орта.',
+      'book.label':'Жазылу','book.h2':'Май ауыстыруға<br>жазылыңыз',
+      'book.p':'Өтінім қалдырыңыз — қайта хабарласып, май таңдап, ыңғайлы уақыт ұсынамыз. Немесе бізге WhatsApp-та жазыңыз.',
+      'contact.phone.label':'БІРЫҢҒАЙ НӨМІР','contact.wa.label':'WHATSAPP','contact.wa.val':'Чатқа жазу',
+      'contact.hours.label':'ЖҰМЫС УАҚЫТЫ','contact.hours.val':'Дс–Жк · 08:30–19:00',
+      'form.success.h3':'Өтінім қабылданды!','form.success.p':'Жұмыс сағаттарында жақын арада қайта хабарласамыз. Arlan Motors таңдағаныңызға рахмет.',
+      'form.success.wa':'WhatsApp-қа қазір жазу →',
+      'form.h3':'Өтінім қалдыру','form.name.label':'Есіміңіз','form.name.placeholder':'Сізге қалай жүгінуге болады',
+      'form.phone.label':'Телефон','form.make.label':'Автомобиль маркасы','form.make.placeholder':'Маркаңызды теріңіз…',
+      'form.model.label':'Моделі','form.model.placeholder':'Моделіңізді теріңіз…',
+      'form.year.label':'Шығару жылы','form.year.placeholder':'Мысалы, 2019',
+      'form.place.label':'Нүкте','form.place.map':'Картада ашу →',
+      'form.submit':'Өтінім жіберу','form.agree':'Батырманы басу арқылы жеке деректерді өңдеуге келісесіз.',
+      'footer.about':'Май ауыстыру пункттері мен автодүкен. Талғардағы авто және мото үшін түпнұсқа майлар мен сүзгілер.',
+      'footer.addr.label':'Мекенжайлар','footer.contacts.label':'Байланыс',
+      'footer.rights':'Барлық құқықтар қорғалған.','footer.a11y':'Қолжетімді орта · қолжетімді кіру',
+    }
+  };
+
+  function setLang(lang) {
+    const dict = T[lang];
+    if (!dict) return;
+
+    // textContent
+    document.querySelectorAll('[data-i18n]').forEach(function(el) {
+      const key = el.getAttribute('data-i18n');
+      if (dict[key] !== undefined) el.textContent = dict[key];
+    });
+
+    // innerHTML (для элементов с <br>, <span>)
+    document.querySelectorAll('[data-i18n-html]').forEach(function(el) {
+      const key = el.getAttribute('data-i18n-html');
+      if (dict[key] !== undefined) el.innerHTML = dict[key];
+    });
+
+    // placeholder
+    document.querySelectorAll('[data-i18n-ph]').forEach(function(el) {
+      const key = el.getAttribute('data-i18n-ph');
+      if (dict[key] !== undefined) el.placeholder = dict[key];
+    });
+
+    // Кнопки переключателя
+    document.querySelectorAll('.lang-btn').forEach(function(btn) {
+      btn.classList.toggle('active', btn.getAttribute('onclick').includes("'" + lang + "'"));
+    });
+
+    // Сохраняем выбор
+    try { localStorage.setItem('lang', lang); } catch(e) {}
+  }
+
+  // Восстанавливаем язык из localStorage
+  (function() {
+    try {
+      const saved = localStorage.getItem('lang');
+      if (saved && T[saved]) setLang(saved);
+    } catch(e) {}
+  })();
+
+  // Маска телефона +7 (___) ___-__-__
+  const phoneInput = document.querySelector('input[name="phone"]');
+  phoneInput.addEventListener('input', function(e) {
+    let val = this.value.replace(/\D/g, '');
+    if (val.startsWith('8')) val = '7' + val.slice(1);
+    if (!val.startsWith('7')) val = '7' + val;
+    val = val.slice(0, 11);
+    let res = '+7';
+    if (val.length > 1) res += ' (' + val.slice(1, 4);
+    if (val.length >= 4) res += ') ' + val.slice(4, 7);
+    if (val.length >= 7) res += '-' + val.slice(7, 9);
+    if (val.length >= 9) res += '-' + val.slice(9, 11);
+    this.value = res;
+  });
+  phoneInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Backspace' && this.value === '+7') e.preventDefault();
+  });
+  phoneInput.addEventListener('focus', function() {
+    if (!this.value) this.value = '+7 ';
+  });
+
+  // ─── Autocomplete: марка / модель авто ───────────────────────────────────
+  // ─── Autocomplete: загрузка базы авто из JSON ────────────────────────────
+  let CAR_DATA = {};
+  let makeNames = [];
+  let selectedMake = '';
+
+  // Дополнительные марки из kolesa.kz, которых нет в JSON-базе
+  const EXTRA_BRANDS = [
+    'AITO','Alga','Alpina','Alpine','Arcfox','Aro','Aurus','Avatr',
+    'BAIC','Bajaj','Baojun','BAW','Blaval','Borgward','Brilliance','Bugatti','Buick',
+    'ChangFeng','Changhe','Core Power','Cupra','Daci','Dadi','Dayun','Deepal','Denza',
+    'Derways','DFSK','DongFeng','DS','Eagle','Enovate','Evergrande','Evolute','EXEED',
+    'Farizon','FAW','Fisker','Forthing','Foton','GAC','Geely Galaxy','GMC','Gonow','Guojin',
+    'Hafei','Haima','Hanteng','Hawtai','Hengchi','Hengrun','HiPhi','Hongqi','Hozon',
+    'HuangHai','Huansu','Huawei','Hycan','iCar','IM','Ineos','Iran Khodro',
+    'Jaecoo','Jetta','JinBei','JINPENG','Jiyue','JMC','Jonway',
+    'Kaiyi','Karry','KG Mobility','Koenigsegg','KYC',
+    'Landian','Leapmotor','Leopaard','Li','Livan','Lucid','Luxeed','Luxgen','Lynk & Co',
+    'Maextro','Mahindra','Maple','Maxus','Maybach','McLaren','Mercedes-Maybach',
+    'Mercury','Metrocab','Niutron','NL','Oldsmobile','OMODA','Ora',
+    'Plymouth','Polar Stone','Polestar','Pontiac','Puch','Radar','RAM','Ravon',
+    'Renault Samsung','Rivian','Roewe','Rox','Santana','Saturn','Scion','Seres',
+    'Serpento','Shineray','ShuangHuan','Skywell','Sol','Soueast','SRM','SWM',
+    'Tank','Tianma','Tianye','Venturi','Venucia','VGV','VinFast','Vortex','Voyah',
+    'Wanfeng','Weltmeister','Wey','Wuling','Xinkai','Xpeng','Yema','Yudo',
+    'Zeekr','Zhiji','Zotye','ZX',
+    'ВАЗ (Lada)','ВИС','ЕрАЗ','ЗАЗ','ЗИЛ','ИЖ','ЛуАЗ','РАФ','Ретро-автомобили','СМЗ','ТагАЗ',
+  ];
+
+  function buildAcDropdown(dropdown, items, onSelect) {
+    dropdown.innerHTML = '';
+    if (!items.length) { dropdown.classList.remove('open'); return; }
+    items.forEach(function(item) {
+      const div = document.createElement('div');
+      div.className = 'ac-item';
+      div.dataset.value = item.original !== undefined ? item.original : item;
+      div.innerHTML = item.html !== undefined ? item.html : item;
+      div.addEventListener('mousedown', function(e) {
+        e.preventDefault();
+        onSelect(div.dataset.value);
+      });
+      dropdown.appendChild(div);
+    });
+    dropdown.classList.add('open');
+  }
+
+  // Кириллические псевдонимы брендов
+  const BRAND_CYRILLIC = {
+    'тойота':'Toyota','тайота':'Toyota',
+    'хёндай':'Hyundai','хюндай':'Hyundai','хундай':'Hyundai','хендай':'Hyundai','хёнде':'Hyundai','хюнде':'Hyundai','хунде':'Hyundai',
+    'киа':'Kia',
+    'бмв':'BMW',
+    'мерседес':'Mercedes-Benz','мерс':'Mercedes-Benz','мерседес бенц':'Mercedes-Benz',
+    'ауди':'Audi',
+    'фольксваген':'Volkswagen','фольц':'Volkswagen','фв':'Volkswagen',
+    'ниссан':'Nissan',
+    'митсубиси':'Mitsubishi','мицубиси':'Mitsubishi','митсубиши':'Mitsubishi',
+    'хонда':'Honda',
+    'шевроле':'Chevrolet','шевролет':'Chevrolet','шеви':'Chevrolet',
+    'форд':'Ford',
+    'мазда':'Mazda',
+    'субару':'Subaru',
+    'рено':'Renault',
+    'шкода':'Skoda',
+    'лексус':'Lexus',
+    'порше':'Porsche',
+    'вольво':'Volvo',
+    'джип':'Jeep',
+    'инфинити':'Infiniti','инфинит':'Infiniti',
+    'лэнд ровер':'Land Rover','ленд ровер':'Land Rover','ленд':'Land Rover',
+    'опель':'Opel',
+    'пежо':'Peugeot',
+    'ситроен':'Citroen','ситроэн':'Citroen',
+    'фиат':'Fiat',
+    'сузуки':'Suzuki',
+    // Китайские бренды
+    'хавал':'Haval','хавейл':'Haval',
+    'джили':'Geely','гили':'Geely',
+    'джак':'JAC','жак':'JAC',
+    'чери':'Chery','черри':'Chery',
+    'чанган':'Changan','чангань':'Changan',
+    'бивайди':'BYD','бид':'BYD','биайди':'BYD',
+    'хончи':'Hongqi','хонки':'Hongqi','хунци':'Hongqi','хонци':'Hongqi',
+    'танк':'Tank',
+    'хавейр':'Haval',
+    'джетур':'Jetour','жетур':'Jetour',
+    'омода':'OMODA','омода':'OMODA',
+    'эксид':'EXEED','ексид':'EXEED',
+    'джаэку':'Jaecoo','жаеко':'Jaecoo',
+    'байк':'BAIC','баик':'BAIC',
+    'фав':'FAW',
+    'гак':'GAC','гэк':'GAC',
+    'лифан':'Lifan',
+    'дэу':'Daewoo','дэвоо':'Daewoo',
+    'тесла':'Tesla',
+    'лада':'ВАЗ (Lada)','ваз':'ВАЗ (Lada)',
+    'газ':'ГАЗ',
+    'уаз':'УАЗ',
+    'сеат':'SEAT',
+    'ягуар':'Jaguar',
+    'ламборгини':'Lamborghini','ламборджини':'Lamborghini',
+    'феррари':'Ferrari',
+    'роллс ройс':'Rolls-Royce','роллс':'Rolls-Royce',
+    'бентли':'Bentley',
+    'мини':'Mini',
+    'смарт':'Smart',
+    'мазерати':'Maserati',
+    'кадиллак':'Cadillac',
+    'линкольн':'Lincoln',
+    'додж':'Dodge',
+    'крайслер':'Chrysler',
+    'хаммер':'Hummer',
+    'сааб':'Saab',
+    'мг':'MG',
+    'москвич':'Москвич',
+    'тагаз':'ТагАЗ',
+    'иж':'ИЖ',
+  };
+
+  // Транслитерация кириллицы в латиницу (для поиска моделей)
+  function transliterate(str) {
+    const map = {
+      'а':'a','б':'b','в':'v','г':'g','д':'d','е':'e','ё':'e','ж':'j',
+      'з':'z','и':'i','й':'i','к':'k','л':'l','м':'m','н':'n','о':'o',
+      'п':'p','р':'r','с':'s','т':'t','у':'u','ф':'f','х':'h','ц':'c',
+      'ч':'ch','ш':'sh','щ':'sh','ъ':'','ы':'i','ь':'','э':'e','ю':'u','я':'a',
+    };
+    return str.toLowerCase().split('').map(function(c) { return map[c] !== undefined ? map[c] : c; }).join('');
+  }
+  // Нормализация для сравнения: c≡k, y≡i, z≡s (звучат одинаково в названиях авто)
+  function normSearch(str) {
+    return str.toLowerCase().replace(/c/g, 'k').replace(/y/g, 'i').replace(/z/g, 's');
+  }
+
+  function highlight(text, query) {
+    if (!query) return text;
+    const re = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi');
+    return text.replace(re, '<mark>$1</mark>');
+  }
+
+  function filterMakes(query) {
+    const q = query.toLowerCase().trim();
+    if (!q) return makeNames.map(m => ({ original: m, html: m }));
+
+    // Прямой поиск по латинскому/русскому названию
+    const direct = makeNames.filter(m => m.toLowerCase().includes(q));
+
+    // Поиск по кириллическим псевдонимам
+    const cyrHits = new Set();
+    Object.entries(BRAND_CYRILLIC).forEach(function([key, name]) {
+      if (key.includes(q) && makeNames.includes(name)) cyrHits.add(name);
+    });
+
+    // Объединяем: сначала прямые совпадения, потом найденные по псевдониму
+    const seen = new Set(direct.map(m => m));
+    const extra = [...cyrHits].filter(m => !seen.has(m));
+    const all = [...direct, ...extra];
+
+    return all.map(function(m) {
+      return { original: m, html: cyrHits.has(m) && !direct.includes(m) ? m : highlight(m, query) };
+    });
+  }
+
+  function filterModels(make, query) {
+    const models = CAR_DATA[make] || [];
+    const q = query.toLowerCase().trim();
+    if (!q) return models.map(m => ({ original: m, html: m }));
+    const qNorm = normSearch(transliterate(q));
+    const qCons = qNorm.replace(/[aeiou]/g, ''); // скелет согласных: крузер→krsr
+
+    return models.filter(function(m) {
+      const ml = m.toLowerCase();
+      const mlNorm = normSearch(ml);
+      if (ml.includes(q) || mlNorm.includes(qNorm)) return true;
+      // Согласный скелет — для крузер/Cruiser, солярис/Solaris и т.п.
+      if (qCons.length >= 3) {
+        return mlNorm.replace(/[aeiou]/g, '').includes(qCons);
+      }
+      return false;
+    }).map(m => ({ original: m, html: highlight(m, query) }));
+  }
+
+  function initCarAutocomplete() {
+    const makeInput = document.getElementById('carMakeInput');
+    const makeDropdown = document.getElementById('carMakeDropdown');
+    const makeClear = document.getElementById('carMakeClear');
+    const modelLabel = document.getElementById('carModelLabel');
+    const modelInput = document.getElementById('carModelInput');
+    const modelDropdown = document.getElementById('carModelDropdown');
+    const modelClear = document.getElementById('carModelClear');
+    const yearLabel = document.getElementById('carYearLabel');
+
+    function showClear(btn, input) {
+      btn.classList.toggle('visible', input.value.length > 0);
+    }
+
+    function clearMake() {
+      selectedMake = '';
+      makeInput.value = '';
+      makeDropdown.classList.remove('open');
+      makeClear.classList.remove('visible');
+      modelLabel.style.display = 'none';
+      modelInput.value = '';
+      modelClear.classList.remove('visible');
+      yearLabel.style.display = 'none';
+      makeInput.focus();
+    }
+
+    function clearModel() {
+      modelInput.value = '';
+      modelDropdown.classList.remove('open');
+      modelClear.classList.remove('visible');
+      yearLabel.style.display = 'none';
+      modelInput.focus();
+    }
+
+    function selectMake(val) {
+      selectedMake = val;
+      makeInput.value = val;
+      makeDropdown.classList.remove('open');
+      makeClear.classList.add('visible');
+      modelLabel.style.display = '';
+      modelInput.value = '';
+      modelClear.classList.remove('visible');
+      yearLabel.style.display = 'none';
+      modelInput.focus();
+    }
+
+    function selectModel(val) {
+      modelInput.value = val;
+      modelDropdown.classList.remove('open');
+      modelClear.classList.add('visible');
+      yearLabel.style.display = '';
+      document.getElementById('carYearInput').focus();
+    }
+
+    makeClear.addEventListener('mousedown', function(e) { e.preventDefault(); clearMake(); });
+    modelClear.addEventListener('mousedown', function(e) { e.preventDefault(); clearModel(); });
+
+    makeInput.addEventListener('focus', function() {
+      buildAcDropdown(makeDropdown, filterMakes(this.value), selectMake);
+    });
+    makeInput.addEventListener('input', function() {
+      selectedMake = '';
+      modelLabel.style.display = 'none';
+      yearLabel.style.display = 'none';
+      showClear(makeClear, makeInput);
+      buildAcDropdown(makeDropdown, filterMakes(this.value), selectMake);
+    });
+    makeInput.addEventListener('blur', function() {
+      setTimeout(function() { makeDropdown.classList.remove('open'); }, 150);
+    });
+
+    modelInput.addEventListener('focus', function() {
+      buildAcDropdown(modelDropdown, filterModels(selectedMake, this.value), selectModel);
+    });
+    modelInput.addEventListener('input', function() {
+      showClear(modelClear, modelInput);
+      buildAcDropdown(modelDropdown, filterModels(selectedMake, this.value), selectModel);
+    });
+    modelInput.addEventListener('blur', function() {
+      setTimeout(function() { modelDropdown.classList.remove('open'); }, 150);
+    });
+  }
+
+  fetch('project/cars archive/json.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      data.forEach(function(entry) {
+        const brand = entry.brand || entry.Brand || entry.make || entry.Make;
+        const model = entry.model || entry.Model;
+        if (!brand || !model) return;
+        if (!CAR_DATA[brand]) CAR_DATA[brand] = [];
+        if (!CAR_DATA[brand].includes(model)) CAR_DATA[brand].push(model);
+      });
+      EXTRA_BRANDS.forEach(function(b) { if (!CAR_DATA[b]) CAR_DATA[b] = []; });
+      makeNames = Object.keys(CAR_DATA).sort(function(a, b) {
+        return a.localeCompare(b, ['ru','en'], { sensitivity: 'base' });
+      });
+      initCarAutocomplete();
+    })
+    .catch(function() {
+      // Фолбэк: если JSON не загрузился — базовый список
+      ['Toyota','Hyundai','Kia','BMW','Mercedes-Benz','Audi','Volkswagen','Nissan',
+       'Mitsubishi','Honda','Chevrolet','Ford','Mazda','Subaru','Renault','Skoda',
+       'Chery','Geely','Haval','Changan','Lexus','Land Rover','Porsche','Volvo',
+       'ВАЗ (Lada)','ГАЗ','УАЗ'].forEach(function(b) { CAR_DATA[b] = []; });
+      makeNames = Object.keys(CAR_DATA).sort();
+      initCarAutocomplete();
+    });
+
+  // ─── Ссылка «Открыть на карте» ──────────────────────────────────────────
+  const PLACE_MAPS = {
+    '202': 'https://2gis.kz/almaty/branches/70000001044151165/firm/70000001045167285/77.219788%2C43.304307?m=77.219788%2C43.304307%2F16',
+    '226': 'https://2gis.kz/almaty/branches/70000001044151165/firm/70000001102838538/77.216704%2C43.305251?m=77.216704%2C43.305251%2F16',
+    '119': 'https://2gis.kz/almaty/branches/70000001044151165/firm/70000001044110051/77.229773%2C43.405668?m=77.229773%2C43.405668%2F16',
+  };
+  const placeSelect = document.getElementById('placeSelect');
+  const placeMapLink = document.getElementById('placeMapLink');
+
+  function updateMapLink() {
+    const url = PLACE_MAPS[placeSelect.value];
+    if (url) {
+      placeMapLink.href = url;
+      placeMapLink.classList.add('visible');
+    } else {
+      placeMapLink.classList.remove('visible');
+    }
+  }
+  placeSelect.addEventListener('change', updateMapLink);
+  updateMapLink();
+
+  const photos119 = [
+    'project/Улица Альмерек Абыз, 119/30258560104918252_4236.jpg',
+    'project/Улица Альмерек Абыз, 119/30258560166979658_582a.jpg',
+    'project/Улица Альмерек Абыз, 119/a70a21ee-f653-4e93-904b-5ff99ca26bfe.jpg',
+    'project/Улица Альмерек Абыз, 119/bfede12b-77e4-4600-899c-68974892170d.jpg',
+    'project/Улица Альмерек Абыз, 119/16c9c168-58d0-431e-9b68-37fb138adf9f.jpg',
+    'project/Улица Альмерек Абыз, 119/a8c40ec9-a16e-4e7d-9d91-af83e11d2318.jpg',
+    'project/Улица Альмерек Абыз, 119/023302b9-6572-47ed-8ca8-e592fb480570.jpg',
+    'project/Улица Альмерек Абыз, 119/d677c690-725b-4970-9c57-86c443241f2d.jpg',
+    'project/Улица Альмерек Абыз, 119/a90e4ac3-130b-45a5-abd9-5177ebb462e5.jpg',
+    'project/Улица Альмерек Абыз, 119/3571bf55-08be-4226-b46d-b1d956a9a156.jpg',
+    'project/Улица Альмерек Абыз, 119/30258560065155435_719b.jpg',
+  ];
+
+  const photos202 = [
+    'project/Улица Кунаева, 202/30258560104917881_fbb5.jpg',
+    'project/Улица Кунаева, 202/0b3b10da-9b5e-4fc8-91ec-710f25bec034.jpg',
+    'project/Улица Кунаева, 202/ea888692-31f2-4e7e-b8b0-7ccb53d2bf84.jpg',
+    'project/Улица Кунаева, 202/36712807-74e4-44f9-8f93-2b5937df2470.jpg',
+    'project/Улица Кунаева, 202/64a59b33-0af4-4b11-9702-c3ec1bafe382.jpg',
+    'project/Улица Кунаева, 202/b70b6601-3d7a-4184-bd0e-18db12598027.jpg',
+    'project/Улица Кунаева, 202/c59bec48-ac7b-49af-8ee9-e96ae8150993.jpg',
+    'project/Улица Кунаева, 202/28880c89-cb0a-46da-8050-5bf9ebd85b3a.jpg',
+    'project/Улица Кунаева, 202/634dc591-239d-40db-bfe8-90c289bcf618.jpg',
+    'project/Улица Кунаева, 202/8ccac7ec-f6c7-4bdc-9b85-432a9eb46fd9.jpg',
+    'project/Улица Кунаева, 202/c9f1aa90-79b7-4938-83da-b1a93e9026cf.jpg',
+  ];
+
+  const photos226 = [
+    'project/​Улица Кунаева, 226/dee459f8-87d2-4c2b-a6c3-90eb0efb62a8.jpg',
+    'project/​Улица Кунаева, 226/393927d7-f424-42f5-be5b-a39c87db8f44.jpg',
+    'project/​Улица Кунаева, 226/fd2b8180-c290-4ef2-9388-acab99adc0e4.jpg',
+    'project/​Улица Кунаева, 226/9c2f2358-c587-424b-82d9-04853392cf42.jpg',
+    'project/​Улица Кунаева, 226/3cffad89-5b16-485b-97cf-09ac144eab7d.jpg',
+    'project/​Улица Кунаева, 226/106a4b30-dbad-4540-8796-a71a084fd531.jpg',
+    'project/​Улица Кунаева, 226/e8c26c99-262b-4afa-ae58-b79207e314c7.jpg',
+    'project/​Улица Кунаева, 226/ee0a8bdf-8e91-4b23-8855-9e2e92af8eed.jpg',
+    'project/​Улица Кунаева, 226/e81a42ff-3cc8-436c-9a8e-c6d1dda43a21.jpg',
+    'project/​Улица Кунаева, 226/27c0493c-3268-4f86-a414-0b222a45318d.jpg',
+    'project/​Улица Кунаева, 226/b70e6713-af3a-40f6-94bc-3c94aa240924.jpg',
+    'project/​Улица Кунаева, 226/d9487c46-8155-471a-a6e8-58a25836431d.jpg',
+    'project/​Улица Кунаева, 226/e499ee65-f623-494d-b7db-6ee318c68098.jpg',
+    'project/​Улица Кунаева, 226/a2dfb3cf-5881-49af-8d96-65f0e848b112.jpg',
+    'project/​Улица Кунаева, 226/5a7d1c2f-585f-416b-8088-9e83d5411ece.jpg',
+  ];
+
+  let lbPhotos = [], lbIndex = 0;
+
+  function openLightbox(src, photos, idx) {
+    lbPhotos = photos || [src];
+    lbIndex = typeof idx === 'number' ? idx : 0;
+    updateLightbox();
+    document.getElementById('lightbox').classList.add('active');
+    document.body.style.overflow = 'hidden';
+    document.getElementById('lightbox').focus();
+  }
+  function updateLightbox() {
+    document.getElementById('lbImg').src = lbPhotos[lbIndex];
+    document.getElementById('lbCounter').textContent = (lbIndex + 1) + ' / ' + lbPhotos.length;
+  }
+  function lbPrev() { lbIndex = (lbIndex - 1 + lbPhotos.length) % lbPhotos.length; updateLightbox(); }
+  function lbNext() { lbIndex = (lbIndex + 1) % lbPhotos.length; updateLightbox(); }
+  function closeLightbox() {
+    document.getElementById('lightbox').classList.remove('active');
+    document.body.style.overflow = '';
+  }
+
+  function toggleFaq(btn) {
+    const item = btn.closest('.faq-item');
+    const sign = btn.querySelector('.faq-sign');
+    const isOpen = item.classList.contains('open');
+    document.querySelectorAll('.faq-item.open').forEach(el => {
+      el.classList.remove('open');
+      el.querySelector('.faq-sign').textContent = '+';
+    });
+    if (!isOpen) {
+      item.classList.add('open');
+      sign.textContent = '–';
+    }
+  }
+
+  function handleSubmit(e) {
+    e.preventDefault();
+    document.getElementById('bookingForm').style.display = 'none';
+    document.getElementById('formSuccess').classList.add('visible');
+  }
+
+  // Бургер-меню
+  const burgerBtn = document.getElementById('burgerBtn');
+  const mainNav = document.getElementById('mainNav');
+  const navCloseBtn = document.getElementById('navCloseBtn');
+
+  function closeNav() {
+    mainNav.style.opacity = '0';
+    burgerBtn.classList.remove('open');
+    burgerBtn.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+    setTimeout(function() {
+      mainNav.classList.remove('open');
+      mainNav.style.opacity = '';
+    }, 250);
+  }
+
+  function openNav() {
+    mainNav.classList.add('open');
+    mainNav.style.opacity = '0';
+    requestAnimationFrame(function() {
+      requestAnimationFrame(function() {
+        mainNav.style.opacity = '1';
+      });
+    });
+    burgerBtn.classList.add('open');
+    burgerBtn.setAttribute('aria-expanded', 'true');
+    document.body.style.overflow = 'hidden';
+  }
+
+  window.closeNav = closeNav;
+
+  burgerBtn.addEventListener('click', function() {
+    if (mainNav.classList.contains('open')) { closeNav(); } else { openNav(); }
+  });
+  navCloseBtn.addEventListener('click', closeNav);
+  mainNav.querySelectorAll('a').forEach(function(link) {
+    link.addEventListener('click', closeNav);
+  });
+</script>
+
+<!-- LIGHTBOX -->
+<div class="lightbox" id="lightbox" tabindex="-1">
+  <span class="lightbox-close" onclick="closeLightbox()">×</span>
+  <div class="lightbox-img-wrap">
+    <img id="lbImg" src="" alt="">
+  </div>
+  <div class="lightbox-nav">
+    <button class="lightbox-btn" onclick="lbPrev()">←</button>
+    <span class="lightbox-counter" id="lbCounter">1 / 1</span>
+    <button class="lightbox-btn" onclick="lbNext()">→</button>
+  </div>
+</div>
+
+<script>
+  const lb = document.getElementById('lightbox');
+  lb.addEventListener('click', function(e) { if (e.target === this) closeLightbox(); });
+  lb.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowLeft') { e.preventDefault(); lbPrev(); }
+    if (e.key === 'ArrowRight') { e.preventDefault(); lbNext(); }
+  });
+</script>
+
+</body>
+</html>

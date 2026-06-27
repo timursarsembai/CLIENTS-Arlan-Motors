@@ -1,0 +1,16 @@
+{
+  "name": "kolesa-parser",
+  "version": "1.0.0",
+  "description": "Парсер kolesa.kz — марки, модели, объявления",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "brands":   "node src/index.js brands",
+    "models":   "node src/index.js models",
+    "all":      "node src/index.js all",
+    "listings": "node src/index.js listings"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
